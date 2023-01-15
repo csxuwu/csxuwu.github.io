@@ -36,10 +36,62 @@ Previously, I interned at Jarvis Lab, Tencent, and was a visiting student at NBL
 
 # 📝 Publications 
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/gan.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Combating Mode Collapse in GANs via Manifold Entropy Estimation](https://arxiv.org/pdf/2208.12055.pdf)
+
+**Liu, H.**, Li, B., Wu, H., Liang, H., Huang, Y., Li, Y., ... & Zheng, Y.
+ 
+[**Code will be comming soon**]
+  
+- Generative Adversarial Networks (GANs) have shown compelling results in various tasks and applications in recent years. However, mode collapse remains a critical problem in GANs. In this paper, we propose a novel training pipeline to address the mode collapse issue of GANs. Different from existing methods, we propose to generalize the discriminator as feature embedding and maximize the entropy of distributions in the embedding space learned by the discriminator. Specifically, two regularization terms, i.e., Deep Local Linear Embedding (DLLE) and Deep Isometric feature Mapping (DIsoMap), are designed to encourage the discriminator to learn the structural information embedded in the data, such that the embedding space learned by the discriminator can be well-formed. Based on the well-learned embedding space supported by the discriminator, a non-parametric entropy estimator is designed to efficiently maximize the entropy of embedding vectors, playing as an approximation of maximizing the entropy of the generated distribution. By improving the discriminator and maximizing the distance of the most similar samples in the embedding space, our pipeline effectively reduces the mode collapse without sacrificing the quality of generated samples. Extensive experimental results show the effectiveness of our method which outperforms the GAN baseline, MaF-GAN on CelebA (9.13 vs. 12.43 in FID) and surpasses the recent state-of-the-art energy-based model on the ANIMEFACE dataset (2.80 vs. 2.26 in Inception score
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCVW 2022</div><img src='images/demix.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Decoupled Mixup for Out-of-Distribution Visual Recognition.](https://arxiv.org/pdf/2210.14783.pdf)
+
+**Liu, H.**, Zhang, W., Xie J., Wu, H., Li, B., Zhang, Z., Li, Y., Huang, Y., Ghanem, B., Y. Zheng.
+ 
+[**Code**](https://github.com/HaozheLiu-ST/NICOChallenge-OOD-Classification)   
+- Convolutional neural networks (CNN) have demonstrated remarkable performance, when the training and testing data are from the same distribution. However, such trained CNN models often largely degrade on testing data which is unseen and Out-Of-the-Distribution (OOD). To address this issue, we propose a novel ”Decoupled-Mixup” method to train CNN models for OOD visual recognition. Different from previous work combining pairs of images homogeneously, our method decouples each image into discriminative and noise-prone regions, and then heterogeneously combine these regions of image pairs to train CNN models. Since the observation is that noise-prone regions such as textural and clutter background are adverse to the generalization ability of CNN models during training, we enhance features from discriminative regions and suppress noise-prone ones when combining an image pair. To further improves the generalization ability of trained models, we propose to disentangle discriminative and noise-prone regions in frequency-based and context-based fashions. Experiment results show the high generalization performance of our method on testing data that are composed of unseen contexts, where our method achieves 85.76% top-1 accuracy in Track-1 and 79.92% in Track-2 in NICO Challenge
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='images/pad.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Effective Presentation Attack Detection Driven by Face Related Task](https://link.springer.com/chapter/10.1007/978-3-031-20065-6_24)
+
+Zhang, W.\*, **Liu, H.**\*, Liu, F., Ramachandra, R., & Busch, C. (**\* Equal Contribution**)
+ 
+[**Code**](https://github.com/WentianZhang-ML/FRT-PAD)   
+- The robustness and generalization ability of Presentation Attack Detection (PAD) methods is critical to ensure the security of Face Recognition Systems (FRSs). However, in a real scenario, Presentation Attacks (PAs) are various and it is hard to predict the Presentation Attack Instrument (PAI) species that will be used by the attacker. Existing PAD methods are highly dependent on the limited training set and cannot generalize well to unknown PAI species. Unlike this specific PAD task, other face related tasks trained by huge amount of real faces (e.g. face recognition and attribute editing) can be effectively adopted into different application scenarios. Inspired by this, we propose to trade position of PAD and face related work in a face system and apply the free acquired prior knowledge from face related tasks to solve face PAD, so as to improve the generalization ability in detecting PAs. The proposed method, first introduces task specific features from other face related task, then, we design a Cross-Modal Adapter using a Graph Attention Network (GAT) to re-map such features to adapt to PAD task. Finally, face PAD is achieved by using the hierarchical features from a CNN-based PA detector and the re-mapped features. The experimental results show that the proposed method can achieve significant improvements in the complicated and hybrid datasets, when compared with the state-of-the-art methods. In particular, when training on the datasets OULU-NPU, CASIA-FASD, and Idiap Replay-Attack, we obtain HTER (Half Total Error Rate) of 5.48% for the testing dataset MSU-MFSD, outperforming the baseline by 7.39%. 
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2022</div><img src='images/pad.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Point Beyond Class: A Benchmark for Weakly Semi-Supervised Abnormality Localization in Chest X-Rays](https://link.springer.com/chapter/10.1007/978-3-031-16437-8_24)
+
+Ji, H.\*, **Liu, H.**\*, Li, Y.\*, Xie J., He, N., Huang, Y., Dong, W., Chen, X., Shen L. & Zheng, Y. (**\* Equal Contribution**)
+ 
+[**Code**](https://github.com/HaozheLiu-ST/Point-Beyond-Class)   
+- Accurate abnormality localization in chest X-rays (CXR) can benefit the clinical diagnosis of various thoracic diseases. However, the lesion-level annotation can only be performed by experienced radiologists, and it is tedious and time-consuming, thus difficult to acquire. Such a situation results in a difficulty to develop a fully-supervised abnormality localization system for CXR. In this regard, we propose to train the CXR abnormality localization framework via a weakly semi-supervised strategy, termed Point Beyond Class (PBC), which utilizes a small number of fully annotated CXRs with lesion-level bounding boxes and extensive weakly annotated samples by points. Such a point annotation setting can provide weakly instance-level information for abnormality localization with a marginal annotation cost. Particularly, the core idea behind our PBC is to learn a robust and accurate mapping from the point annotations to the bounding boxes against the variance of annotated points. To achieve that, a regularization term, namely multi-point consistency, is proposed, which drives the model to generate the consistent bounding box from different point annotations inside the same abnormality. Furthermore, a self-supervision, termed symmetric consistency, is also proposed to deeply exploit the useful information from the weakly annotated data for abnormality localization. Experimental results on RSNA and VinDr-CXR datasets justify the effectiveness of the proposed method. When ≤20% box-level labels are used for training, an improvement of ∼5% in mAP can be achieved by our PBC, compared to the current state-of-the-art method (i.e., Point DETR).
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2021</div><img src='images/group.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Group-wise Inhibition](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_Group-Wise_Inhibition_Based_Feature_Regularization_for_Robust_Classification_ICCV_2021_paper.html)
+[Group-wise Inhibition based Feature Regularization for Robust Classification](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_Group-Wise_Inhibition_Based_Feature_Regularization_for_Robust_Classification_ICCV_2021_paper.html)
 
 **Liu, H.**, Wu, H., Xie, W., Liu, F., & Shen, L.
 
@@ -48,19 +100,66 @@ Previously, I interned at Jarvis Lab, Tencent, and was a visiting student at NBL
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+
+
+- **Liu, H.**, Wu, H., Xie, W., Liu, F., & Shen, L. (2021). Group-wise Inhibition based Feature Regularization for Robust Classification. _International Conference on Computer Vision (ICCV)_ 
+
+- **Liu, H.**, Ji, H., Li, Y., He, N., Wu, H., Liu, F., Shen, L. & Zheng, Y. (2022). Robust Representation via Dynamic Feature Aggregation. arXiv preprint arXiv:2205.07466.
+
+- **Liu, H.**, Li, B., Wu, H., Liang, H., Huang, Y., Li, Y., ... & Zheng, Y. (2022). Combating Mode Collapse in GANs via Manifold Entropy Estimation. (2023) _Association for the Advancement of Artificial Intelligence (AAAI)_.
+
+- **Liu, H.**, Zhang, W., Xie J., Wu, H., Li, B., Zhang, Z., Li, Y., Huang, Y., Ghanem, B., Y. Zheng. (2022)  Decoupled Mixup for Out-of-Distribution Visual Recognition. _European Conference on Computer Vision Workshop (ECCVW)_ 
+
+- Ji, H.\*, **Liu, H.**\*, Li, Y.\*, Xie J., He, N., Huang, Y., Dong, W., Chen, X., Shen L. & Zheng, Y. (2022) Point Beyond Class: A Benchmark for Weakly Semi-Supervised Abnormality Localization in Chest X-Rays.  _International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)_. (**\* Equal Contribution**)
+
+- Zhang, W.\*, **Liu, H.**\*, Liu, F., Ramachandra, R., & Busch, C. (2022). Effective Presentation Attack Detection Driven by Face Related Task. _European Conference on Computer Vision (ECCV)_ (**\* Equal Contribution**)
+
+- **Liu, H.**, Zhang, W., Liu, F., Wu, H.,& Shen, L. (2021). Fingerprint Presentation Attack Detector Using Global-Local Model. _IEEE Transactions on Cybernetics_.
+
+- Liu, F., **Liu, H**., Zhang, W., Liu, G., & Shen, L. (2021). One-Class Fingerprint Presentation Attack Detection Using Auto-Encoder Network. _IEEE Transactions on Image Processing, 30, 2394-2407_.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022* Outstanding Graduate Award (**Rate<5%**)
+- *2021* China National Scholarship (**Rate<0.02%**)
+- *2020* Excellent Academic Scholarship, First Class 
+- *2019*Excellent Academic Scholarship, Second Class 
+- *2018* National University Big Data Application Innovation Competition in Northwest, First Place
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📖 Research Experience
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+### AI Initiative (KAUST) 
+ PhD Candidate supervised by Prof. [Juergen Schmidhuber](https://scholar.google.com/citations?user=gLnCTgIAAAAJ&hl=en) and [Bernard Ghanem](https://scholar.google.com/citations?user=rVsGTeEAAAAJ).
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- Research Field includes Video based Decision System, especially focusing on the extraction of the subgoal in a trajectory.
+
+- Joined the Project, Highway RL, to design a novel multi-step Value Iteration method with exponential contraction rate but only linear computational complexity, which is submitted to **ICLR'2023**.
+
+---
+
+### Jarvis Lab (Tencent) 
+Internship supervised by Mentor: [Dr. Nanjun He](https://scholar.google.ch/citations?user=w3iS1G0AAAAJ&hl=en) & [Dr. Yuexiang Li](https://scholar.google.com/citations?user=WsKu4EMAAAAJ&hl=en) and Director: [Dr. Yefeng Zheng](https://scholar.google.ch/citations?user=vAIECxgAAAAJ&hl=en) 
+  
+- Proposed Dynamic Feature Aggregation to improve the robustness against adversarial attacks.
+
+- Proposed offline entropy estimation to combat mode collapse, which is accepted **AAAI'2023**. (This project is cooperated with AI Initiative, KAUST.)  
+- Proposed Point Beyond Class to reduce the annotation cost for medical object detection, which is accepted by **MICCAI'2022**.
+
+- Participate to NICO Challenge (ECCV'2022 workshop), our team reach to 5th/40 in both tracks at Phase I, and 4th in Track 2 at Final Phase. 
+
+---
+
+### Norwegian Biometrics Laboratory (NTNU)
+Visiting student supervised by  [Prof. Raghavendra Ramachandra](https://scholar.google.com/citations?user=OIYIrmIAAAAJ&hl=en) and [Prof. Christoph Busch](https://scholar.google.com/citations?user=qsopcXIAAAAJ&hl=en)
+
+- Proposed a self-supervised learning based method for face and fingerprint presentation attack detection, which is submitted to **TNNLS**.
+- Proposed a face presentation attack detector based on the taskonomy features, which is accepted by **ECCV'2022**.
+
+---
+
+### Computer Vision Insitute (SZU)
+M.S. supervised by [Prof. Feng Liu](https://scholar.google.com/citations?hl=zh-CN&user=45uLWocAAAAJ) and [Prof. Linlin Shen](https://scholar.google.com/citations?hl=zh-CN&user=AZ_y9HgAAAAJ)
+- Proposed a regularization method to imporve the robustness of CNN based models, which is accepted by **ICCV'2021** and open source.
+- Proposed a Manifold-preserved GANs to mitigate the mode collapse and gradient exploding.
+- Collected a famous presentation attack dataset based on OCT and **for the first time** established a one-class framework for OCT based PAD. This work is accepted by **IEEE TIP**
+- Proposed a presentation attack detector using Global-Local model, which reaches over 90% in terms of TDR@FDR=1% on LivDet2017 **for the first time**. (Accepted by **IEEE TCYB**)
