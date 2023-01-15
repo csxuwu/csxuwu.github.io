@@ -130,7 +130,7 @@ Ji, H.\*, **Liu, H.**\*, Li, Y.\*, Xie J., He, N., Huang, Y., Dong, W., Chen, X.
 # 📖 Research Experience
 
 ### AI Initiative (KAUST) 
- PhD Candidate supervised by Prof. [Juergen Schmidhuber](https://scholar.google.com/citations?user=gLnCTgIAAAAJ&hl=en) and [Bernard Ghanem](https://scholar.google.com/citations?user=rVsGTeEAAAAJ).
+ PhD Candidate supervised by Prof. [Juergen Schmidhuber](https://scholar.google.com/citations?user=gLnCTgIAAAAJ&hl=en).
 
 - Research Field includes Video based Decision System, especially focusing on the extraction of the subgoal in a trajectory.
 
