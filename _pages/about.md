@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am working towards a Ph.D. degree in AI Initiative, KAUST, under the supervision of Prof.[Juergen Schmidhuber](https://scholar.google.com/citations?user=gLnCTgIAAAAJ&hl=en). I have published several papers in top-tier journals/conferences, including CVPR, ICCV, ECCV, AAAI, MICCAI, IEEE Trans on Image Processing, etc.. I serve as a reviewer of top-tier conferences, e.g., CVPR'2023,  CVPR'2022, ICML'2022, ECCV'2022, and MICCAI'2022. 
-Previously, I interned at Jarvis Lab, Tencent, and was a visiting student at NBL, NTNU. My research interests include regularization, self-supervised learning, adversarial learning, and reinforcement learning. 
+Previously, I interned at Jarvis Lab, Tencent, and was a visiting student at NBL, NTNU. My research interests include regularization, self-supervised learning, adversarial learning, and reinforcement learning. My curriculum vitae can be found at [here](./haozheliu.pdf)
 
 
 # 🔥 News
