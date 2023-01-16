@@ -69,7 +69,7 @@ Previously, I interned at Jarvis Lab, Tencent, and was a visiting student at NBL
 
 Zhang, W.\*, **Liu, H.**\*, Liu, F., Ramachandra, R., & Busch, C. (**\* Equal Contribution**)
  
-[**Porject Page**](https://wentianzhang-ml.github.io/pad/)
+[**Project Page**](https://wentianzhang-ml.github.io/pad/)
   
 [**Code**](https://github.com/WentianZhang-ML/FRT-PAD)  
   
