@@ -106,18 +106,17 @@ Ji, H.\*, **Liu, H.**\*, Li, Y.\*, Xie J., He, N., Huang, Y., Dong, W., Chen, X.
 
 ### Selected Publication List
 
-
-- **Liu, H.**, Wu, H., Xie, W., Liu, F., & Shen, L. (2021). Group-wise Inhibition based Feature Regularization for Robust Classification. _International Conference on Computer Vision (ICCV)_ 
+- **Liu, H.**, Li, B., Wu, H., Liang, H., Huang, Y., Li, Y., ... & Zheng, Y. (2023). Combating Mode Collapse in GANs via Manifold Entropy Estimation.  _Association for the Advancement of Artificial Intelligence (AAAI)_.
 
 - **Liu, H.**, Ji, H., Li, Y., He, N., Wu, H., Liu, F., Shen, L. & Zheng, Y. (2022). Robust Representation via Dynamic Feature Aggregation. arXiv preprint arXiv:2205.07466.
-
-- **Liu, H.**, Li, B., Wu, H., Liang, H., Huang, Y., Li, Y., ... & Zheng, Y. (2022). Combating Mode Collapse in GANs via Manifold Entropy Estimation. (2023) _Association for the Advancement of Artificial Intelligence (AAAI)_.
 
 - **Liu, H.**, Zhang, W., Xie J., Wu, H., Li, B., Zhang, Z., Li, Y., Huang, Y., Ghanem, B., Y. Zheng. (2022)  Decoupled Mixup for Out-of-Distribution Visual Recognition. _European Conference on Computer Vision Workshop (ECCVW)_ 
 
 - Ji, H.\*, **Liu, H.**\*, Li, Y.\*, Xie J., He, N., Huang, Y., Dong, W., Chen, X., Shen L. & Zheng, Y. (2022) Point Beyond Class: A Benchmark for Weakly Semi-Supervised Abnormality Localization in Chest X-Rays.  _International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)_. (**\* Equal Contribution**)
 
 - Zhang, W.\*, **Liu, H.**\*, Liu, F., Ramachandra, R., & Busch, C. (2022). Effective Presentation Attack Detection Driven by Face Related Task. _European Conference on Computer Vision (ECCV)_ (**\* Equal Contribution**)
+
+- **Liu, H.**, Wu, H., Xie, W., Liu, F., & Shen, L. (2021). Group-wise Inhibition based Feature Regularization for Robust Classification. _International Conference on Computer Vision (ICCV)_ 
 
 - **Liu, H.**, Zhang, W., Liu, F., Wu, H.,& Shen, L. (2021). Fingerprint Presentation Attack Detector Using Global-Local Model. _IEEE Transactions on Cybernetics_.
 
