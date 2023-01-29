@@ -43,10 +43,8 @@ Previously, I interned at Jarvis Lab, Tencent, and was a visiting student at NBL
 [Combating Mode Collapse in GANs via Manifold Entropy Estimation](https://arxiv.org/pdf/2208.12055.pdf)
 
 **Liu, H.**, Li, B., Wu, H., Liang, H., Huang, Y., Li, Y., ... & Zheng, Y.
- 
-[**Code will be comming soon**]
   
-- In this paper, we propose a novel training pipeline to address the mode collapse issue of GANs. Different from existing methods, we propose to generalize the discriminator as feature embedding and maximize the entropy of distributions in the embedding space learned by the discriminator. 
+- In this paper, we propose a novel training pipeline to address the mode collapse issue of GANs. Different from existing methods, we propose to generalize the discriminator as feature embedding and maximize the entropy of distributions in the embedding space learned by the discriminator. [**Code will be comming soon**]
 </div>
 </div>
 
@@ -56,9 +54,8 @@ Previously, I interned at Jarvis Lab, Tencent, and was a visiting student at NBL
 [Decoupled Mixup for Out-of-Distribution Visual Recognition.](https://arxiv.org/pdf/2210.14783.pdf)
 
 **Liu, H.**, Zhang, W., Xie J., Wu, H., Li, B., Zhang, Z., Li, Y., Huang, Y., Ghanem, B., Y. Zheng.
- 
-[**Code**](https://github.com/HaozheLiu-ST/NICOChallenge-OOD-Classification)   
-- We propose a novel ”Decoupled-Mixup” method to train CNN models for OOD visual recognition. Different from previous work combining pairs of images homogeneously, our method decouples each image into discriminative and noise-prone regions, and then heterogeneously combine these regions of image pairs to train CNN models. 
+  
+- We propose a novel ”Decoupled-Mixup” method to train CNN models for OOD visual recognition. Different from previous work combining pairs of images homogeneously, our method decouples each image into discriminative and noise-prone regions, and then heterogeneously combine these regions of image pairs to train CNN models. [**Code**](https://github.com/HaozheLiu-ST/NICOChallenge-OOD-Classification)  
 </div>
 </div>
 
@@ -68,12 +65,8 @@ Previously, I interned at Jarvis Lab, Tencent, and was a visiting student at NBL
 [Effective Presentation Attack Detection Driven by Face Related Task](https://link.springer.com/chapter/10.1007/978-3-031-20065-6_24)
 
 Zhang, W.\*, **Liu, H.**\*, Liu, F., Ramachandra, R., & Busch, C. (**\* Equal Contribution**)
- 
-[**Project Page**](https://wentianzhang-ml.github.io/pad/)
   
-[**Code**](https://github.com/WentianZhang-ML/FRT-PAD)  
-  
-- Unlike this specific PAD task, other face related tasks trained by huge amount of real faces (e.g. face recognition and attribute editing) can be effectively adopted into different application scenarios. Inspired by this, we propose to trade position of PAD and face related work in a face system and apply the free acquired prior knowledge from face related tasks to solve face PAD, so as to improve the generalization ability in detecting PAs. 
+- Unlike this specific PAD task, other face related tasks trained by huge amount of real faces (e.g. face recognition and attribute editing) can be effectively adopted into different application scenarios. Inspired by this, we propose to trade position of PAD and face related work in a face system and apply the free acquired prior knowledge from face related tasks to solve face PAD, so as to improve the generalization ability in detecting PAs. [**Project Page**](https://wentianzhang-ml.github.io/pad/) [**Code**](https://github.com/WentianZhang-ML/FRT-PAD)  
 </div>
 </div>
 
@@ -85,8 +78,7 @@ Zhang, W.\*, **Liu, H.**\*, Liu, F., Ramachandra, R., & Busch, C. (**\* Equal Co
 
 Ji, H.\*, **Liu, H.**\*, Li, Y.\*, Xie J., He, N., Huang, Y., Dong, W., Chen, X., Shen L. & Zheng, Y. (**\* Equal Contribution**)
  
-[**Code**](https://github.com/HaozheLiu-ST/Point-Beyond-Class)   
-- We propose to train the CXR abnormality localization framework via a weakly semi-supervised strategy, termed Point Beyond Class (PBC), which utilizes a small number of fully annotated CXRs with lesion-level bounding boxes and extensive weakly annotated samples by points. Such a point annotation setting can provide weakly instance-level information for abnormality localization with a marginal annotation cost. 
+- We propose to train the CXR abnormality localization framework via a weakly semi-supervised strategy, termed Point Beyond Class (PBC), which utilizes a small number of fully annotated CXRs with lesion-level bounding boxes and extensive weakly annotated samples by points. Such a point annotation setting can provide weakly instance-level information for abnormality localization with a marginal annotation cost. [**Code**](https://github.com/HaozheLiu-ST/Point-Beyond-Class)   
 </div>
 </div>
 
@@ -98,8 +90,7 @@ Ji, H.\*, **Liu, H.**\*, Li, Y.\*, Xie J., He, N., Huang, Y., Dong, W., Chen, X.
 
 **Liu, H.**, Wu, H., Xie, W., Liu, F., & Shen, L.
 
-[**Code**](https://github.com/LinusWu/TENET_Training) 
-- CNN pays more attention to the most discriminative regions, but ignores the auxiliary features when learning, leading to the lack of feature diversity for final judgment. In our method, we propose to dynamically suppress significant activation values of CNN by group-wise inhibition, but not fixedly or randomly handle them when training. The feature maps with different activation distribution are then processed separately to take the feature independence into account. CNN is finally guided to learn richer discriminative features hierarchically for robust classification according to the proposed regularization.
+- CNN pays more attention to the most discriminative regions, but ignores the auxiliary features when learning, leading to the lack of feature diversity for final judgment. In our method, we propose to dynamically suppress significant activation values of CNN by group-wise inhibition, but not fixedly or randomly handle them when training. The feature maps with different activation distribution are then processed separately to take the feature independence into account. CNN is finally guided to learn richer discriminative features hierarchically for robust classification according to the proposed regularization. [**Code**](https://github.com/LinusWu/TENET_Training) 
 </div>
 </div>
 
@@ -166,3 +157,11 @@ M.S. supervised by [Prof. Feng Liu](https://scholar.google.com/citations?hl=zh-C
 - Proposed a Manifold-preserved GANs to mitigate the mode collapse and gradient exploding.
 - Collected a famous presentation attack dataset based on OCT and **for the first time** established a one-class framework for OCT based PAD. This work is accepted by **IEEE TIP**
 - Proposed a presentation attack detector using Global-Local model, which reaches over 90% in terms of TDR@FDR=1% on LivDet2017 **for the first time**. (Accepted by **IEEE TCYB**)
+
+# 💻 Professional Service
+
+### Conference Reviewer 
+- CVPR: 2022, 2023
+- ECCV: 2022
+- ICML: 2022
+- MICCAI: 2022
