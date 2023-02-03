@@ -144,7 +144,7 @@ Internship supervised by Mentor: [Dr. Yawen Huang](https://yawen-hwang.github.io
 ### Norwegian Biometrics Laboratory (NTNU)
 Visiting student supervised by  [Prof. Raghavendra Ramachandra](https://scholar.google.com/citations?user=OIYIrmIAAAAJ&hl=en) and [Prof. Christoph Busch](https://scholar.google.com/citations?user=qsopcXIAAAAJ&hl=en)
 
-- Proposed a self-supervised learning based method for face and fingerprint presentation attack detection, which is accepted by **TNNLS**.
+- Proposed a self-supervised learning based method for face and fingerprint presentation attack detection, which is accepted by **IEEE TNNLS**.
 - Proposed a face presentation attack detector based on the taskonomy features, which is accepted by **ECCV'2022**.
 
 ---
