@@ -127,8 +127,6 @@ Ji, H.\*, **Liu, H.**\*, Li, Y.\*, Xie J., He, N., Huang, Y., Dong, W., Chen, X.
 
 - Research Field includes Video based Decision System, especially focusing on the extraction of the subgoal in a trajectory.
 
-- Joined the Project, Highway RL, to design a novel multi-step Value Iteration method with exponential contraction rate but only linear computational complexity, which is submitted to **ICLR'2023**.
-
 ---
 
 ### Jarvis Lab (Tencent) 
@@ -146,7 +144,7 @@ Internship supervised by Mentor: [Dr. Yawen Huang](https://yawen-hwang.github.io
 ### Norwegian Biometrics Laboratory (NTNU)
 Visiting student supervised by  [Prof. Raghavendra Ramachandra](https://scholar.google.com/citations?user=OIYIrmIAAAAJ&hl=en) and [Prof. Christoph Busch](https://scholar.google.com/citations?user=qsopcXIAAAAJ&hl=en)
 
-- Proposed a self-supervised learning based method for face and fingerprint presentation attack detection, which is submitted to **TNNLS**.
+- Proposed a self-supervised learning based method for face and fingerprint presentation attack detection, which is accepted by **TNNLS**.
 - Proposed a face presentation attack detector based on the taskonomy features, which is accepted by **ECCV'2022**.
 
 ---
