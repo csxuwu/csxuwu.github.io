@@ -44,7 +44,7 @@ Previously, I interned at Jarvis Lab, Tencent, and was a visiting student at NBL
 
 **Liu, H.**, Li, B., Wu, H., Liang, H., Huang, Y., Li, Y., ... & Zheng, Y.
   
-- In this paper, we propose a novel training pipeline to address the mode collapse issue of GANs. Different from existing methods, we propose to generalize the discriminator as feature embedding and maximize the entropy of distributions in the embedding space learned by the discriminator. [**Code will be comming soon**]
+- In this paper, we propose a novel training pipeline to address the mode collapse issue of GANs. Different from existing methods, we propose to generalize the discriminator as feature embedding and maximize the entropy of distributions in the embedding space learned by the discriminator. [**Code**](https://github.com/HaozheLiu-ST/MEE)
 </div>
 </div>
 
