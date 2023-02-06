@@ -117,7 +117,7 @@ Ji, H.\*, **Liu, H.**\*, Li, Y.\*, Xie J., He, N., Huang, Y., Dong, W., Chen, X.
 - *2022* Outstanding Graduate Award (**Rate<5%**)
 - *2021* China National Scholarship (**Rate<0.02%**)
 - *2020* Excellent Academic Scholarship, First Class 
-- *2019*Excellent Academic Scholarship, Second Class 
+- *2019* Excellent Academic Scholarship, Second Class 
 - *2018* National University Big Data Application Innovation Competition in Northwest, First Place
 
 # 📖 Research Experience
