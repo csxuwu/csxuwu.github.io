@@ -22,17 +22,18 @@ Previously, I interned at Jarvis Lab, Tencent, and was a visiting student at NBL
 
 
 # 🔥 News
-- *2022.11*: &nbsp;🎉🎉 Our method (Combating Mode Collapse in GANs via Manifold Entropy Estimation) is accepted by AAAI'2023 (Oral).
-- *2022.11*: &nbsp; I am invited as a reviewer for CVPR'2023.
-- *2022.08*: &nbsp;🎉🎉 **I join AI Initiative, KAUST to pursue the PhD degree under the supervision of Juergen Schmidhuber!**
-- *2022.08*: &nbsp;🎉 Our method (Decoupled Mixup) reaches to the 4th/40 in [NICO challenge](https://nicochallenge.com/), and is invited as a regular paper in the workshop of ECCV'2022!
-- *2022.07*: &nbsp;🎉 Our paper (Effective Presentation Attack Detection Driven by Face Related Task) is accepted by ECCV'2022! 
-- *2022.06*: &nbsp;🎉 Our papers (Point Beyond Class: A Benchmark for Weakly Semi-Supervised Abnormality Localization in Chest X-Rays) and (A Multi-task Network with Weight Decay Skip Connection Training for Anomaly Detection in Retinal Fundus Images) are accepted by MICCAI'2022!
-- *2022.06*: &nbsp;🎉 Haozhe is selected as one of the distinguished graduates at Shenzhen University (Rate<10%)
+- *2023.02*: &nbsp; Invited as a reviewer for ICCV'2023.
+- *2022.11*: &nbsp;🎉🎉 One paper is accepted by AAAI'2023 (Oral).
+- *2022.11*: &nbsp; Invited as a reviewer for CVPR'2023.
+- *2022.08*: &nbsp;🎉🎉 **I join AI Initiative, KAUST to pursue the Ph.D. degree under the supervision of Juergen Schmidhuber!**
+- *2022.08*: &nbsp;🎉 Our team reaches to the 4th/40 in [NICO challenge](https://nicochallenge.com/) (Invited Workshop Paper in ECCV'2022).
+- *2022.07*: &nbsp;🎉 One paper is accepted by ECCV'2022! 
+- *2022.06*: &nbsp;🎉 Two papers are accepted by MICCAI'2022!
+- *2022.06*: &nbsp;🎉 Selected as the distinguished graduates at Shenzhen University (Rate<10%)
 - *2022.05*: &nbsp;[Our method (Group-wise Inhibition)](https://github.com/LinusWu/TENET_Training) is merged into the official benchmark of [ImageNet-C](https://github.com/hendrycks/robustness)!  
-- *2022.04*: &nbsp;I am invited as a reviewer for ICML'2022, ECCV'2022 and MICCAI'2022.  
-- *2021.10*: &nbsp; I am invited as a reviewer for CVPR'2022.
-- *2021.07*: &nbsp;🎉 Our paper (Group-wise Inhibition based Feature Regularization for Robust Classification) is accepted by ICCV'2021!
+- *2022.04*: &nbsp; Invited as a reviewer for ICML'2022, ECCV'2022 and MICCAI'2022.  
+- *2021.10*: &nbsp; Invited as a reviewer for CVPR'2022.
+- *2021.07*: &nbsp;🎉 One paper is accepted by ICCV'2021!
 
 # 📝 Publications 
 
