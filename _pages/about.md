@@ -101,13 +101,13 @@ Ji, H.\*, **Liu, H.**\*, Li, Y.\*, Xie J., He, N., Huang, Y., Dong, W., Chen, X.
 
 - **Liu, H.**, Ji, H., Li, Y., He, N., Wu, H., Liu, F., Shen, L. & Zheng, Y. (2022). Robust Representation via Dynamic Feature Aggregation. _Arxiv Preprint_
 
-- **Liu, H.**, Zhang, W., Xie J., Wu, H., Li, B., Zhang, Z., Li, Y., Huang, Y., Ghanem, B., Y. Zheng. (2022)  Decoupled Mixup for Out-of-Distribution Visual Recognition. _ECCV'2022 Workshop_ 
+- **Liu, H.**, Zhang, W., Xie J., Wu, H., Li, B., Zhang, Z., Li, Y., Huang, Y., Ghanem, B., Y. Zheng. Decoupled Mixup for Out-of-Distribution Visual Recognition. _ECCV'2022 Workshop_ 
 
-- Ji, H.\*, **Liu, H.**\*, Li, Y.\*, Xie J., He, N., Huang, Y., Dong, W., Chen, X., Shen L. & Zheng, Y. (2022) Point Beyond Class: A Benchmark for Weakly Semi-Supervised Abnormality Localization in Chest X-Rays.  _MICCAI'2022_. (**\* Equal Contribution**)
+- Ji, H.\*, **Liu, H.**\*, Li, Y.\*, Xie J., He, N., Huang, Y., Dong, W., Chen, X., Shen L. & Zheng, Y. Point Beyond Class: A Benchmark for Weakly Semi-Supervised Abnormality Localization in Chest X-Rays.  _MICCAI'2022_. (**\* Equal Contribution**)
 
-- Zhang, W.\*, **Liu, H.**\*, Liu, F., Ramachandra, R., & Busch, C. (2022). Effective Presentation Attack Detection Driven by Face Related Task. _ECCV'2022_ (**\* Equal Contribution**)
+- Zhang, W.\*, **Liu, H.**\*, Liu, F., Ramachandra, R., & Busch, C. Effective Presentation Attack Detection Driven by Face Related Task. _ECCV'2022_ (**\* Equal Contribution**)
 
-- **Liu, H.**, Wu, H., Xie, W., Liu, F., & Shen, L. (2021). Group-wise Inhibition based Feature Regularization for Robust Classification. _ICCV'2021_ 
+- **Liu, H.**, Wu, H., Xie, W., Liu, F., & Shen, L. Group-wise Inhibition based Feature Regularization for Robust Classification. _ICCV'2021_ 
 
 - **Liu, H.**, Zhang, W., Liu, F., Wu, H.,& Shen, L. (2021). Fingerprint Presentation Attack Detector Using Global-Local Model. _IEEE T-CYB_.
 
