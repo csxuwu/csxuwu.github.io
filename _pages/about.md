@@ -22,6 +22,7 @@ Previously, I interned at Jarvis Lab, Tencent, and was a visiting student at NBL
 
 
 # 🔥 News
+- *2023.02*: &nbsp;🎉🎉 Two papers are accepted by CVPR'2023!.
 - *2023.02*: &nbsp; Invited as a reviewer for ICCV'2023.
 - *2022.11*: &nbsp;🎉🎉 One paper is accepted by AAAI'2023 (Oral).
 - *2022.11*: &nbsp; Invited as a reviewer for CVPR'2023.
