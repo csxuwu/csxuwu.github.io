@@ -67,6 +67,20 @@ Coarse-to-Fine Low-light Image Enhancement with Light Restoration and Color Refi
 </div>
 </div>
 
+-------
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TII</div><img src='images/SCSF2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Illumination Calibration and Scale-Aware Feature Learning for Low-light Image Enhancement
+
+**Xu Wu**, Zhihui Lai, Xianxu Hou, Jiajun Wen, Linlin Shen 
+  
+- Low-light image enhancement has made significant progress with deep neural networks in recent years. A typical framework is to learn nonlinear image-to-image mappings from low-light images and the corresponding normal light ones. However, these methods rarely consider the illumination relations between different regions and the diversity of regions in scale and shape, leading to over or under enhancement in uneven illumination. To address these issues, we propose a novel low-light image enhancement model that learns illumination relations and multi-scale information.
+</div>
+</div>
+
+
 
 ### Selected Publication List
 
