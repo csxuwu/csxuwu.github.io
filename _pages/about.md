@@ -91,26 +91,12 @@ Ji, H.\*, **Liu, H.**\*, Li, Y.\*, Xie J., He, N., Huang, Y., Dong, W., Chen, X.
 
 ### Selected Publication List
 
-<!-- - **Liu, H.**, Li, B., Wu, H., Liang, H., Huang, Y., Li, Y., ... & Zheng, Y. Combating Mode Collapse in GANs via Manifold Entropy Estimation.  _AAAI'2023 Oral_. -->
 - Zetao Jiang, **Xu Wu**, Shaoqin Zhang, “Low-illumination Image Enhancement Based on MR-VAE”. Chinese Journal of Computers (计算机学报), 2020,43(07):1328-1339.
 - Zetao Jiang, Yi Qian, **Xu Wu**, Shaoqin Zhang. “Low-light Image Enhancement Method Based on ARDGAN” Chinese Journal of Electronics (电子学报), 2021,49(11):2160-2165.
 - **Xu Wu**, Zhihui Lai, Shiqi Yu, Jie Zhou, Zhuoqian Liang, Linlin Shen. “Coarse-to-Fine Low-light Image Enhancement with Light Restoration and Color Refinement”, IEEE Transactions on Emerging Topics in Computational Intelligence. Major revision.
 - **Xu Wu**, Zhihui Lai, Xianxu Hou, Jiajun Wen, Linlin Shen. “Illumination Calibration and Scale-Aware Feature Learning for Low-light Image Enhancement”, IEEE Transactions on Industrial Informatics. Under review.
 - 
 
-<!-- - **Liu, H.**, Ji, H., Li, Y., He, N., Wu, H., Liu, F., Shen, L. & Zheng, Y. (2022). Robust Representation via Dynamic Feature Aggregation. _Arxiv Preprint_
-
-- **Liu, H.**, Zhang, W., Xie J., Wu, H., Li, B., Zhang, Z., Li, Y., Huang, Y., Ghanem, B., Y. Zheng. Decoupled Mixup for Out-of-Distribution Visual Recognition. _ECCV'2022 Workshop_ 
-
-- Ji, H.\*, **Liu, H.**\*, Li, Y.\*, Xie J., He, N., Huang, Y., Dong, W., Chen, X., Shen L. & Zheng, Y. Point Beyond Class: A Benchmark for Weakly Semi-Supervised Abnormality Localization in Chest X-Rays.  _MICCAI'2022_. (**\* Equal Contribution**)
-
-- Zhang, W.\*, **Liu, H.**\*, Liu, F., Ramachandra, R., & Busch, C. Effective Presentation Attack Detection Driven by Face Related Task. _ECCV'2022_ (**\* Equal Contribution**)
-
-- **Liu, H.**, Wu, H., Xie, W., Liu, F., & Shen, L. Group-wise Inhibition based Feature Regularization for Robust Classification. _ICCV'2021_ 
-
-- **Liu, H.**, Zhang, W., Liu, F., Wu, H.,& Shen, L. (2021). Fingerprint Presentation Attack Detector Using Global-Local Model. _IEEE T-CYB_.
-
-- Liu, F., **Liu, H**., Zhang, W., Liu, G., & Shen, L. (2021). One-Class Fingerprint Presentation Attack Detection Using Auto-Encoder Network. _IEEE T-IP, 30, 2394-2407_. -->
 
 # 🎖 Honors and Awards
 - *2022* 2nd Prize, Award on China Post-Graduate Mathematic Contest in Modeling (**Rate<0.02%**)
@@ -122,41 +108,13 @@ Ji, H.\*, **Liu, H.**\*, Li, Y.\*, Xie J., He, N., Huang, Y., Dong, W., Chen, X.
 - *2017* China National Scholarship (**Rate<0.02%**)
 - *2017* Excellent Academic Scholarship, First Class 
 
-<!-- # 📖 Research Experience
+# 📖 Research Experience
 
-### AI Initiative (KAUST) 
- PhD Candidate supervised by Prof. [Juergen Schmidhuber](https://scholar.google.com/citations?user=gLnCTgIAAAAJ&hl=en).
-
-- Research Field includes Video based Decision System, especially focusing on the extraction of the subgoal in a trajectory.
-
----
-
-### Jarvis Lab (Tencent) 
-Internship supervised by Mentor: [Dr. Yawen Huang](https://yawen-hwang.github.io/), [Dr. Nanjun He](https://scholar.google.ch/citations?user=w3iS1G0AAAAJ&hl=en) & [Dr. Yuexiang Li](https://scholar.google.com/citations?user=WsKu4EMAAAAJ&hl=en) and Director: [Dr. Yefeng Zheng](https://scholar.google.ch/citations?user=vAIECxgAAAAJ&hl=en) 
-  
-- Proposed Dynamic Feature Aggregation to improve the robustness against adversarial attacks.
-
-- Proposed offline entropy estimation to combat mode collapse, which is accepted **AAAI'2023**. (This project is cooperated with AI Initiative, KAUST.)  
-- Proposed Point Beyond Class to reduce the annotation cost for medical object detection, which is accepted by **MICCAI'2022**.
-
-- Participate to NICO Challenge (ECCV'2022 workshop), our team reach to 5th/40 in both tracks at Phase I, and 4th in Track 2 at Final Phase. 
-
----
-
-### Norwegian Biometrics Laboratory (NTNU)
-Visiting student supervised by  [Prof. Raghavendra Ramachandra](https://scholar.google.com/citations?user=OIYIrmIAAAAJ&hl=en) and [Prof. Christoph Busch](https://scholar.google.com/citations?user=qsopcXIAAAAJ&hl=en)
-
-- Proposed a self-supervised learning based method for face and fingerprint presentation attack detection, which is accepted by **IEEE TNNLS**.
-- Proposed a face presentation attack detector based on the taskonomy features, which is accepted by **ECCV'2022**.
-
----
-
-### Computer Vision Insitute (SZU)
-M.S. supervised by [Prof. Feng Liu](https://scholar.google.com/citations?hl=zh-CN&user=45uLWocAAAAJ) and [Prof. Linlin Shen](https://scholar.google.com/citations?hl=zh-CN&user=AZ_y9HgAAAAJ)
-- Proposed a regularization method to imporve the robustness of CNN based models, which is accepted by **ICCV'2021** and open source.
-- Proposed a Manifold-preserved GANs to mitigate the mode collapse and gradient exploding.
-- Collected a famous presentation attack dataset based on OCT and **for the first time** established a one-class framework for OCT based PAD. This work is accepted by **IEEE TIP**
-- Proposed a presentation attack detector using Global-Local model, which reaches over 90% in terms of TDR@FDR=1% on LivDet2017 **for the first time**. (Accepted by **IEEE TCYB**) -->
+### Guangxi Key Laboratory of Image and Graphic Intelligent Processing, GUET
+M.S. supervised by [Prof. Zetao Jiang](https://www.guet.edu.cn/people2/1130186.html)
+- Proposed a multi-reconstruction variational autoencoder for low-light image enhancement, which is accepted by Chinese Journal of Computers and open source.
+- Proposed a variational autoencoder with attention and vontext encoding for low-light image enhancement.
+- Proposed a multi-stage variational autoencoder for low-light image enhancement, which has been patented (Patent number: CN110163815B).
 
 # 💻 Professional Service
 
