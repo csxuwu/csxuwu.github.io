@@ -23,17 +23,20 @@ on Emerging Topics in Computational Intelligence, International Journal of Machi
 My research interests include contrastive learning, image processing, low-light image enhancment, low-light image semantic segmantation. My curriculum vitae can be found at [here](./haozheliu.pdf).
 
 
-<!-- # 🔥 News
-- *2023.02*: &nbsp;🎉🎉 Two papers are accepted by CVPR'2023!.
-- *2023.02*: &nbsp; Invited as a reviewer for ICCV'2023.
-- *2022.11*: &nbsp;🎉🎉 One paper is accepted by AAAI'2023 (Oral).
-- *2022.11*: &nbsp; Invited as a reviewer for CVPR'2023.
-- *2022.08*: &nbsp;🎉🎉 **I join AI Initiative, KAUST to pursue the Ph.D. degree under the supervision of Juergen Schmidhuber!**
-- *2022.08*: &nbsp;🎉 Our team reaches to the 4th/40 in [NICO challenge](https://nicochallenge.com/) (Invited Workshop Paper in ECCV'2022).
-- *2022.07*: &nbsp;🎉 One paper is accepted by ECCV'2022! 
+# 🔥 News
+- *2023.02*: &nbsp;🎉🎉 Invited as a visiting student for University of Alberta.
+- *2022.12*: &nbsp;🎉🎉 2nd Prize, Award on China Post-Graduate Mathematic Contest in Modeling.
+- *2021.09*: &nbsp;🎉🎉 **I join CCSE, SZU to pursue the Ph.D. degree under the supervision of Zhihui Lai!**
+<!-- - *2023.02*: &nbsp;🎉🎉 Two papers are accepted by CVPR'2023!. -->
+<!-- - *2023.02*: &nbsp; Invited as a reviewer for ICCV'2023. -->
+<!-- - *2022.11*: &nbsp;🎉🎉 One paper is accepted by AAAI'2023 (Oral). -->
+<!-- - *2022.11*: &nbsp; Invited as a reviewer for CVPR'2023. -->
+<!-- - *2022.08*: &nbsp;🎉🎉 **I join AI Initiative, KAUST to pursue the Ph.D. degree under the supervision of Juergen Schmidhuber!** -->
+<!-- - *2022.08*: &nbsp;🎉 Our team reaches to the 4th/40 in [NICO challenge](https://nicochallenge.com/) (Invited Workshop Paper in ECCV'2022). -->
+<!-- - *2022.07*: &nbsp;🎉 One paper is accepted by ECCV'2022! 
 - *2022.06*: &nbsp;🎉 Two papers are accepted by MICCAI'2022!
-- *2022.05*: &nbsp;[Our method (Group-wise Inhibition)](https://github.com/LinusWu/TENET_Training) is merged into the official benchmark of [ImageNet-C](https://github.com/hendrycks/robustness)!  
-- *2022.04*: &nbsp; Invited as a reviewer for ICML'2022, ECCV'2022 and MICCAI'2022.  
+- *2022.05*: &nbsp;[Our method (Group-wise Inhibition)](https://github.com/LinusWu/TENET_Training) is merged into the official benchmark of [ImageNet-C](https://github.com/hendrycks/robustness)!   -->
+<!-- - *2022.04*: &nbsp; Invited as a reviewer for ICML'2022, ECCV'2022 and MICCAI'2022.  
 - *2021.10*: &nbsp; Invited as a reviewer for CVPR'2022.
 - *2021.07*: &nbsp;🎉 One paper is accepted by ICCV'2021! -->
 
