@@ -68,55 +68,6 @@ Coarse-to-Fine Low-light Image Enhancement with Light Restoration and Color Refi
 </div>
 
 
-
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCVW 2022</div><img src='images/demix.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Decoupled Mixup for Out-of-Distribution Visual Recognition.](https://arxiv.org/pdf/2210.14783.pdf)
-
-**Liu, H.**, Zhang, W., Xie J., Wu, H., Li, B., Zhang, Z., Li, Y., Huang, Y., Ghanem, B., Y. Zheng.
-  
-- We propose a novel ”Decoupled-Mixup” method to train CNN models for OOD visual recognition. Different from previous work combining pairs of images homogeneously, our method decouples each image into discriminative and noise-prone regions, and then heterogeneously combine these regions of image pairs to train CNN models. [**Code**](https://github.com/HaozheLiu-ST/NICOChallenge-OOD-Classification)  
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='images/pad.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Effective Presentation Attack Detection Driven by Face Related Task](https://link.springer.com/chapter/10.1007/978-3-031-20065-6_24)
-
-Zhang, W.\*, **Liu, H.**\*, Liu, F., Ramachandra, R., & Busch, C. (**\* Equal Contribution**)
-  
-- Unlike this specific PAD task, other face related tasks trained by huge amount of real faces (e.g. face recognition and attribute editing) can be effectively adopted into different application scenarios. Inspired by this, we propose to trade position of PAD and face related work in a face system and apply the free acquired prior knowledge from face related tasks to solve face PAD, so as to improve the generalization ability in detecting PAs. [**Project Page**](https://wentianzhang-ml.github.io/pad/) [**Code**](https://github.com/WentianZhang-ML/FRT-PAD)  
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2022</div><img src='images/pbc.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Point Beyond Class: A Benchmark for Weakly Semi-Supervised Abnormality Localization in Chest X-Rays](https://link.springer.com/chapter/10.1007/978-3-031-16437-8_24)
-
-Ji, H.\*, **Liu, H.**\*, Li, Y.\*, Xie J., He, N., Huang, Y., Dong, W., Chen, X., Shen L. & Zheng, Y. (**\* Equal Contribution**)
- 
-- We propose to train the CXR abnormality localization framework via a weakly semi-supervised strategy, termed Point Beyond Class (PBC), which utilizes a small number of fully annotated CXRs with lesion-level bounding boxes and extensive weakly annotated samples by points. Such a point annotation setting can provide weakly instance-level information for abnormality localization with a marginal annotation cost. [**Code**](https://github.com/HaozheLiu-ST/Point-Beyond-Class)   
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2021</div><img src='images/group.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Group-wise Inhibition based Feature Regularization for Robust Classification](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_Group-Wise_Inhibition_Based_Feature_Regularization_for_Robust_Classification_ICCV_2021_paper.html)
-
-**Liu, H.**, Wu, H., Xie, W., Liu, F., & Shen, L.
-
-- CNN pays more attention to the most discriminative regions, but ignores the auxiliary features when learning, leading to the lack of feature diversity for final judgment. In our method, we propose to dynamically suppress significant activation values of CNN by group-wise inhibition, but not fixedly or randomly handle them when training. The feature maps with different activation distribution are then processed separately to take the feature independence into account. CNN is finally guided to learn richer discriminative features hierarchically for robust classification according to the proposed regularization. [**Code**](https://github.com/LinusWu/TENET_Training) 
-</div>
-</div>
- -->
-
 ### Selected Publication List
 
 - Zetao Jiang, **Xu Wu**, Shaoqin Zhang, “Low-illumination Image Enhancement Based on MR-VAE”. Chinese Journal of Computers (计算机学报), 2020,43(07):1328-1339.
@@ -143,6 +94,7 @@ M.S. supervised by [Prof. Zetao Jiang](https://www.guet.edu.cn/people2/1130186.h
 - Proposed a multi-reconstruction variational autoencoder for low-light image enhancement, which is accepted by Chinese Journal of Computers and open source.
 - Proposed a variational autoencoder with attention and vontext encoding for low-light image enhancement.
 - Proposed a multi-stage variational autoencoder for low-light image enhancement, which has been patented (Patent number: CN110163815B).
+- Graduate Student Innovation Project of GUET. 
 
 # 💻 Professional Service
 
