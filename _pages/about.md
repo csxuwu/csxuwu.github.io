@@ -17,8 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am working towards a Ph.D. degree in Computer Vision Insitute, SZU, under the supervision of Prof.[Zhihui Lai](https://scholar.google.com/citations?hl=zh-CN&user=CkK6ULsAAAAJ). I have published several papers in journals/conferences, including Chinese Journal of Computers, Chinese Journal of Electronics, IEEE Transactions
-on Emerging Topics in Computational Intelligence, etc.. I serve as a reviewer of journals, e.g., IEEE Transactions
+I am working towards a Ph.D. degree in Computer Vision Insitute, SZU, under the supervision of Prof.[Zhihui Lai](https://scholar.google.com/citations?hl=zh-CN&user=CkK6ULsAAAAJ). I have published several papers in journals/conferences, including Chinese Journal of Computers, Chinese Journal of Electronics, IEEE Transactions on Emerging Topics in Computational Intelligence, etc.. I serve as a reviewer of journals, e.g., IEEE Transactions
 on Emerging Topics in Computational Intelligence, International Journal of Machine Learning and Cybernetics, and IEEE/CAA Journal of Automatica Sinica. 
 My research interests include contrastive learning, image processing, low-light image enhancment, low-light image semantic segmantation. My curriculum vitae can be found at [here](./CV_wuxu.pdf).
 
@@ -42,6 +41,8 @@ Zetao Jiang, **Xu Wu**, Shaoqin Zhang
 </div>
 </div>
 
+-------
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/ACEVAE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -53,6 +54,18 @@ Zetao Jiang, **Xu Wu**, Rushi Lan, Zhuoqian Liang, Zhihui Lai
 </div>
 </div>
 
+-------
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TETCI</div><img src='images/LRCR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Variational Autoencoder with Attention and Context Encoding for Low-light Image Enhancement]
+
+Zetao Jiang, **Xu Wu**, Rushi Lan, Zhuoqian Liang, Zhihui Lai
+  
+- The low-illumination image enhancement is a challenging task because color restoration, denoising, and light enhancement should all be taken into accounts. However, most previous works focus on light enhancement, which is difficult to generate high quality enhanced images. To address this dilemma, a novel deep probabilistic framework that integrates both attention mechanism and context encoding into a unique variational autoencoder (ACE-VAE) is proposed.
+</div>
+</div>
 
 
 
