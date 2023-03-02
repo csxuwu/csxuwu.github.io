@@ -41,7 +41,6 @@ Zetao Jiang, **Xu Wu**, Shaoqin Zhang
 </div>
 </div>
 
--------
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/ACEVAE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -54,7 +53,6 @@ Zetao Jiang, **Xu Wu**, Rushi Lan, Zhuoqian Liang, Zhihui Lai
 </div>
 </div>
 
--------
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TETCI</div><img src='images/LRCR2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -67,7 +65,6 @@ Coarse-to-Fine Low-light Image Enhancement with Light Restoration and Color Refi
 </div>
 </div>
 
--------
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TII</div><img src='images/SCSF2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
