@@ -25,6 +25,7 @@ My research interests include contrastive learning, image processing, low-light 
 
 # 🔥 News
 - *2023.02*: &nbsp;🎉🎉 Invited as a visiting student for University of Alberta.
+- *2022.12*: &nbsp; One paper is submmitted to the IJCAI2023.
 - *2022.12*: &nbsp;🎉🎉 2nd Prize, Award on China Post-Graduate Mathematic Contest in Modeling.
 - *2021.09*: &nbsp;🎉🎉 **I join CCSE, SZU to pursue the Ph.D. degree under the supervision of Zhihui Lai!**
 <!-- - *2023.02*: &nbsp;🎉🎉 Two papers are accepted by CVPR'2023!. -->
@@ -43,7 +44,7 @@ My research interests include contrastive learning, image processing, low-light 
 # 📝 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023 (Oral)</div><img src='images/gan.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Chinese Journal of Computers</div><img src='images/gan.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Combating Mode Collapse in GANs via Manifold Entropy Estimation](https://arxiv.org/pdf/2208.12055.pdf)
