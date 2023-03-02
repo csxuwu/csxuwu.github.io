@@ -17,32 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am working towards a Ph.D. degree in CCSE, SZU, under the supervision of Prof.[Zhihui Lai](https://scholar.google.com/citations?hl=zh-CN&user=CkK6ULsAAAAJ). I have published several papers in journals/conferences, including Chinese Journal of Computers, Chinese Journal of Electronics, IEEE Transactions
+I am working towards a Ph.D. degree in Computer Vision Insitute, SZU, under the supervision of Prof.[Zhihui Lai](https://scholar.google.com/citations?hl=zh-CN&user=CkK6ULsAAAAJ). I have published several papers in journals/conferences, including Chinese Journal of Computers, Chinese Journal of Electronics, IEEE Transactions
 on Emerging Topics in Computational Intelligence, etc.. I serve as a reviewer of journals, e.g., IEEE Transactions
 on Emerging Topics in Computational Intelligence, International Journal of Machine Learning and Cybernetics, and IEEE/CAA Journal of Automatica Sinica. 
-My research interests include contrastive learning, image processing, low-light image enhancment, low-light image semantic segmantation. My curriculum vitae can be found at [here](./haozheliu.pdf).
+My research interests include contrastive learning, image processing, low-light image enhancment, low-light image semantic segmantation. My curriculum vitae can be found at [here](./CV_wuxu.pdf).
 
 
 # 🔥 News
 - *2023.02*: &nbsp;🎉🎉 Invited as a visiting student for University of Alberta.
 - *2022.12*: &nbsp; One paper is submmitted to the IJCAI2023.
 - *2022.12*: &nbsp;🎉🎉 2nd Prize, Award on China Post-Graduate Mathematic Contest in Modeling.
-- *2021.09*: &nbsp;🎉🎉 **I join CCSE, SZU to pursue the Ph.D. degree under the supervision of Zhihui Lai!**
-<!-- - *2023.02*: &nbsp;🎉🎉 Two papers are accepted by CVPR'2023!. -->
-<!-- - *2023.02*: &nbsp; Invited as a reviewer for ICCV'2023. -->
-<!-- - *2022.11*: &nbsp;🎉🎉 One paper is accepted by AAAI'2023 (Oral). -->
-<!-- - *2022.11*: &nbsp; Invited as a reviewer for CVPR'2023. -->
-<!-- - *2022.08*: &nbsp;🎉🎉 **I join AI Initiative, KAUST to pursue the Ph.D. degree under the supervision of Juergen Schmidhuber!** -->
-<!-- - *2022.08*: &nbsp;🎉 Our team reaches to the 4th/40 in [NICO challenge](https://nicochallenge.com/) (Invited Workshop Paper in ECCV'2022). -->
-<!-- - *2022.07*: &nbsp;🎉 One paper is accepted by ECCV'2022! 
-- *2022.06*: &nbsp;🎉 Two papers are accepted by MICCAI'2022!
-- *2022.05*: &nbsp;[Our method (Group-wise Inhibition)](https://github.com/LinusWu/TENET_Training) is merged into the official benchmark of [ImageNet-C](https://github.com/hendrycks/robustness)!   -->
-<!-- - *2022.04*: &nbsp; Invited as a reviewer for ICML'2022, ECCV'2022 and MICCAI'2022.  
-- *2021.10*: &nbsp; Invited as a reviewer for CVPR'2022.
-- *2021.07*: &nbsp;🎉 One paper is accepted by ICCV'2021! -->
+- *2021.09*: &nbsp;🎉🎉 **I join Computer Vision Insitute, SZU to pursue the Ph.D. degree under the supervision of Zhihui Lai!**
 
 # 📝 Publications 
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Chinese Journal of Computers</div><img src='images/gan.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -104,9 +91,14 @@ Ji, H.\*, **Liu, H.**\*, Li, Y.\*, Xie J., He, N., Huang, Y., Dong, W., Chen, X.
 
 ### Selected Publication List
 
-- **Liu, H.**, Li, B., Wu, H., Liang, H., Huang, Y., Li, Y., ... & Zheng, Y. Combating Mode Collapse in GANs via Manifold Entropy Estimation.  _AAAI'2023 Oral_.
+<!-- - **Liu, H.**, Li, B., Wu, H., Liang, H., Huang, Y., Li, Y., ... & Zheng, Y. Combating Mode Collapse in GANs via Manifold Entropy Estimation.  _AAAI'2023 Oral_. -->
+- Zetao Jiang, **Xu Wu**, Shaoqin Zhang, “Low-illumination Image Enhancement Based on MR-VAE”. Chinese Journal of Computers (计算机学报), 2020,43(07):1328-1339.
+- Zetao Jiang, Yi Qian, **Xu Wu**, Shaoqin Zhang. “Low-light Image Enhancement Method Based on ARDGAN” Chinese Journal of Electronics (电子学报), 2021,49(11):2160-2165.
+- **Xu Wu**, Zhihui Lai, Shiqi Yu, Jie Zhou, Zhuoqian Liang, Linlin Shen. “Coarse-to-Fine Low-light Image Enhancement with Light Restoration and Color Refinement”, IEEE Transactions on Emerging Topics in Computational Intelligence. Major revision.
+- **Xu Wu**, Zhihui Lai, Xianxu Hou, Jiajun Wen, Linlin Shen. “Illumination Calibration and Scale-Aware Feature Learning for Low-light Image Enhancement”, IEEE Transactions on Industrial Informatics. Under review.
+- 
 
-- **Liu, H.**, Ji, H., Li, Y., He, N., Wu, H., Liu, F., Shen, L. & Zheng, Y. (2022). Robust Representation via Dynamic Feature Aggregation. _Arxiv Preprint_
+<!-- - **Liu, H.**, Ji, H., Li, Y., He, N., Wu, H., Liu, F., Shen, L. & Zheng, Y. (2022). Robust Representation via Dynamic Feature Aggregation. _Arxiv Preprint_
 
 - **Liu, H.**, Zhang, W., Xie J., Wu, H., Li, B., Zhang, Z., Li, Y., Huang, Y., Ghanem, B., Y. Zheng. Decoupled Mixup for Out-of-Distribution Visual Recognition. _ECCV'2022 Workshop_ 
 
@@ -118,16 +110,19 @@ Ji, H.\*, **Liu, H.**\*, Li, Y.\*, Xie J., He, N., Huang, Y., Dong, W., Chen, X.
 
 - **Liu, H.**, Zhang, W., Liu, F., Wu, H.,& Shen, L. (2021). Fingerprint Presentation Attack Detector Using Global-Local Model. _IEEE T-CYB_.
 
-- Liu, F., **Liu, H**., Zhang, W., Liu, G., & Shen, L. (2021). One-Class Fingerprint Presentation Attack Detection Using Auto-Encoder Network. _IEEE T-IP, 30, 2394-2407_.
+- Liu, F., **Liu, H**., Zhang, W., Liu, G., & Shen, L. (2021). One-Class Fingerprint Presentation Attack Detection Using Auto-Encoder Network. _IEEE T-IP, 30, 2394-2407_. -->
 
 # 🎖 Honors and Awards
-- *2022* Outstanding Graduate Award (**Rate<5%**)
-- *2021* China National Scholarship (**Rate<0.02%**)
+- *2022* 2nd Prize, Award on China Post-Graduate Mathematic Contest in Modeling (**Rate<0.02%**)
+- *2021* Outstanding Master’s Degree Thesis Award (**Rate<0.05%**)
+- *2020* China National Scholarship (**Rate<0.02%**)
 - *2020* Excellent Academic Scholarship, First Class 
-- *2019* Excellent Academic Scholarship, Second Class 
-- *2018* National University Big Data Application Innovation Competition in Northwest, First Place
+- *2018* Outstanding Graduate Award of Hunan Province (**Rate<0.02%**)
+- *2018* Outstanding Graduate Award (**Rate<5%**)
+- *2017* China National Scholarship (**Rate<0.02%**)
+- *2017* Excellent Academic Scholarship, First Class 
 
-# 📖 Research Experience
+<!-- # 📖 Research Experience
 
 ### AI Initiative (KAUST) 
  PhD Candidate supervised by Prof. [Juergen Schmidhuber](https://scholar.google.com/citations?user=gLnCTgIAAAAJ&hl=en).
@@ -161,13 +156,16 @@ M.S. supervised by [Prof. Feng Liu](https://scholar.google.com/citations?hl=zh-C
 - Proposed a regularization method to imporve the robustness of CNN based models, which is accepted by **ICCV'2021** and open source.
 - Proposed a Manifold-preserved GANs to mitigate the mode collapse and gradient exploding.
 - Collected a famous presentation attack dataset based on OCT and **for the first time** established a one-class framework for OCT based PAD. This work is accepted by **IEEE TIP**
-- Proposed a presentation attack detector using Global-Local model, which reaches over 90% in terms of TDR@FDR=1% on LivDet2017 **for the first time**. (Accepted by **IEEE TCYB**)
+- Proposed a presentation attack detector using Global-Local model, which reaches over 90% in terms of TDR@FDR=1% on LivDet2017 **for the first time**. (Accepted by **IEEE TCYB**) -->
 
 # 💻 Professional Service
 
-### Conference Reviewer 
-- CVPR: 2022, 2023
+### Journals Reviewer 
+- IEEE Transactions on Emerging Topics in Computational Intelligence
+- International Journal of Machine Learning and Cybernetics
+- IEEE/CAA Journal of Automatica Sinica. 
+<!-- - CVPR: 2022, 2023
 - ECCV: 2022
 - ICCV: 2023
 - ICML: 2022
-- MICCAI: 2022
+- MICCAI: 2022 -->
