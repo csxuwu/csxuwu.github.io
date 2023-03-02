@@ -21,7 +21,7 @@ I am working towards a Ph.D. degree in AI Initiative, KAUST, under the supervisi
 Previously, I interned at Jarvis Lab, Tencent, and was a visiting student at NBL, NTNU. My research interests include regularization, self-supervised learning, adversarial learning, and reinforcement learning. My curriculum vitae can be found at [here](./haozheliu.pdf).
 
 
-# 🔥 News
+<!-- # 🔥 News
 - *2023.02*: &nbsp;🎉🎉 Two papers are accepted by CVPR'2023!.
 - *2023.02*: &nbsp; Invited as a reviewer for ICCV'2023.
 - *2022.11*: &nbsp;🎉🎉 One paper is accepted by AAAI'2023 (Oral).
@@ -33,7 +33,7 @@ Previously, I interned at Jarvis Lab, Tencent, and was a visiting student at NBL
 - *2022.05*: &nbsp;[Our method (Group-wise Inhibition)](https://github.com/LinusWu/TENET_Training) is merged into the official benchmark of [ImageNet-C](https://github.com/hendrycks/robustness)!  
 - *2022.04*: &nbsp; Invited as a reviewer for ICML'2022, ECCV'2022 and MICCAI'2022.  
 - *2021.10*: &nbsp; Invited as a reviewer for CVPR'2022.
-- *2021.07*: &nbsp;🎉 One paper is accepted by ICCV'2021!
+- *2021.07*: &nbsp;🎉 One paper is accepted by ICCV'2021! -->
 
 # 📝 Publications 
 
