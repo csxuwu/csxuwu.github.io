@@ -46,7 +46,7 @@ Zetao Jiang, **Xu Wu**, Shaoqin Zhang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/ACEVAE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Variational Autoencoder with Attention and Context Encoding for Low-light Image Enhancement]
+A Variational Autoencoder with Attention and Context Encoding for Low-light Image Enhancement
 
 Zetao Jiang, **Xu Wu**, Rushi Lan, Zhuoqian Liang, Zhihui Lai
   
@@ -59,7 +59,7 @@ Zetao Jiang, **Xu Wu**, Rushi Lan, Zhuoqian Liang, Zhihui Lai
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TETCI</div><img src='images/LRCR2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Coarse-to-Fine Low-light Image Enhancement with Light Restoration and Color Refinement]
+Coarse-to-Fine Low-light Image Enhancement with Light Restoration and Color Refinement
 
 **Xu Wu**, Zhihui Lai, Shiqi Yu, Jie Zhou, Zhuoqian Liang, Linlin Shen 
   
