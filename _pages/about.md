@@ -42,6 +42,19 @@ Zetao Jiang, **Xu Wu**, Shaoqin Zhang
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/ACEVAE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Variational Autoencoder with Attention and Context Encoding for Low-light Image Enhancement]
+
+Zetao Jiang, **Xu Wu**, Rushi Lan, Zhuoqian Liang, Zhihui Lai
+  
+- The low-illumination image enhancement is a challenging task because color restoration, denoising, and light enhancement should all be taken into accounts. However, most previous works focus on light enhancement, which is difficult to generate high quality enhanced images. To address this dilemma, a novel deep probabilistic framework that integrates both attention mechanism and context encoding into a unique variational autoencoder (ACE-VAE) is proposed.
+</div>
+</div>
+
+
+
 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCVW 2022</div><img src='images/demix.png' alt="sym" width="100%"></div></div>
