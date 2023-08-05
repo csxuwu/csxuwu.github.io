@@ -23,6 +23,7 @@ My research interests include contrastive learning, image processing, low-light 
 
 
 # 🔥 News
+- *2023.08*: &nbsp; One paper is accepted to the TETCI.
 - *2023.04*: &nbsp; One paper is accepted to the IJCNN 2023.
 - *2023.02*: &nbsp;🎉🎉 Invited as a visiting student for University of Alberta.
 - *2022.12*: &nbsp; One paper is submmitted to the IJCAI2023.
