@@ -86,7 +86,7 @@ Illumination Calibration and Scale-Aware Feature Learning for Low-light Image En
 
 - Zetao Jiang, **Xu Wu**, Shaoqin Zhang, “Low-illumination Image Enhancement Based on MR-VAE”. Chinese Journal of Computers (计算机学报), 2020,43(07):1328-1339.
 - Zetao Jiang, Yi Qian, **Xu Wu**, Shaoqin Zhang. “Low-light Image Enhancement Method Based on ARDGAN” Chinese Journal of Electronics (电子学报), 2021,49(11):2160-2165.
-- **Xu Wu**, Zhihui Lai, Shiqi Yu, Jie Zhou, Zhuoqian Liang, Linlin Shen. “Coarse-to-Fine Low-light Image Enhancement with Light Restoration and Color Refinement”, IEEE Transactions on Emerging Topics in Computational Intelligence. Major revision.
+- **Xu Wu**, Zhihui Lai, Shiqi Yu, Jie Zhou, Zhuoqian Liang, Linlin Shen. “Coarse-to-Fine Low-light Image Enhancement with Light Restoration and Color Refinement”, IEEE Transactions on Emerging Topics in Computational Intelligence. Accepted.
 - **Xu Wu**, Zhihui Lai, Xianxu Hou, Jiajun Wen, Linlin Shen. “Illumination Calibration and Scale-Aware Feature Learning for Low-light Image Enhancement”, IEEE Transactions on Industrial Informatics. Under review.
 
 
