@@ -29,14 +29,14 @@ My research interests include contrastive learning, image processing, low-light 
 - *2022.12*: &nbsp; One paper is submmitted to the IJCAI2023.
 - *2022.12*: &nbsp;🎉🎉 2nd Prize, Award on China Post-Graduate Mathematic Contest in Modeling.
 - *2021.11*: &nbsp; Received funding from the outstanding Ph.D. project.
-- *2021.09*: &nbsp;🎉🎉 **I join Computer Vision Insitute, SZU to pursue the Ph.D. degree under the supervision of Zhihui Lai!**
+- *2021.09*: &nbsp;🎉🎉 **I joined Computer Vision Insitute, SZU to pursue the Ph.D. degree under the supervision of Zhihui Lai!**
 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Chinese Journal of Computers</div><img src='images/MR_VAE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Multi-Reconstruciton Variational AutoEncoder for Low-light Image Enhancement](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7i8oRR1PAr7RxjuAJk4dHXos_BuYfGFXVpmBdnj0gpB6SeN-FNUbuzCTM22HnKm5Mc&uniplatform=NZKPT)
+[A Multi-Reconstruction Variational AutoEncoder for Low-light Image Enhancement](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7i8oRR1PAr7RxjuAJk4dHXos_BuYfGFXVpmBdnj0gpB6SeN-FNUbuzCTM22HnKm5Mc&uniplatform=NZKPT)
 
 Zetao Jiang, **Xu Wu**, Shaoqin Zhang
   
@@ -52,7 +52,7 @@ A Variational Autoencoder with Attention and Context Encoding for Low-light Imag
 
 Zetao Jiang, **Xu Wu**, Rushi Lan, Zhuoqian Liang, Zhihui Lai
   
-- The low-illumination image enhancement is a challenging task because color restoration, denoising, and light enhancement should all be taken into accounts. However, most previous works focus on light enhancement, which is difficult to generate high quality enhanced images. To address this dilemma, a novel deep probabilistic framework that integrates both attention mechanism and context encoding into a unique variational autoencoder (ACE-VAE) is proposed.
+- The low-illumination image enhancement is a challenging task because color restoration, denoising, and light enhancement should all be taken into account. However, most previous works focus on light enhancement, which is difficult to generate high quality enhanced images. To address this dilemma, a novel deep probabilistic framework that integrates both attention mechanism and context encoding into a unique variational autoencoder (ACE-VAE) is proposed.
 </div>
 </div>
 
@@ -64,7 +64,7 @@ Coarse-to-Fine Low-light Image Enhancement with Light Restoration and Color Refi
 
 **Xu Wu**, Zhihui Lai, Shiqi Yu, Jie Zhou, Zhuoqian Liang, Linlin Shen 
   
-- Low-light image enhancement aims to improve the illumination intensity while restoring color information. Although recent deep learning-based methods have achieved impressive results, they still suffer from over or under light enhancement in complex illumination scenes, and poor contrast and saturation recovery in dark regions. To address these drawbacks, we propose a novel pipeline (called LRCR-Net) to perform Light Restoration and Color Refinement in a coarse-to-fine manner.
+- Low-light image enhancement aims to improve the illumination intensity while restoring color information. Although recent deep learning-based methods have achieved impressive results, they still suffer from over or under-light enhancement in complex illumination scenes, and poor contrast and saturation recovery in dark regions. To address these drawbacks, we propose a novel pipeline (called LRCR-Net) to perform Light Restoration and Color Refinement in a coarse-to-fine manner.
 </div>
 </div>
 
@@ -76,7 +76,7 @@ Illumination Calibration and Scale-Aware Feature Learning for Low-light Image En
 
 **Xu Wu**, Zhihui Lai, Xianxu Hou, Jiajun Wen, Linlin Shen 
   
-- Low-light image enhancement has made significant progress with deep neural networks in recent years. A typical framework is to learn nonlinear image-to-image mappings from low-light images and the corresponding normal light ones. However, these methods rarely consider the illumination relations between different regions and the diversity of regions in scale and shape, leading to over or under enhancement in uneven illumination. To address these issues, we propose a novel low-light image enhancement model that learns illumination relations and multi-scale information.
+- Low-light image enhancement has made significant progress with deep neural networks in recent years. A typical framework is to learn nonlinear image-to-image mappings from low-light images and the corresponding normal-light ones. However, these methods rarely consider the illumination relations between different regions and the diversity of regions in scale and shape, leading to over or under-enhancement in uneven illumination. To address these issues, we propose a novel low-light image enhancement model that learns illumination relations and multi-scale information.
 </div>
 </div>
 
@@ -86,7 +86,7 @@ Illumination Calibration and Scale-Aware Feature Learning for Low-light Image En
 
 - Zetao Jiang, **Xu Wu**, Shaoqin Zhang, “Low-illumination Image Enhancement Based on MR-VAE”. Chinese Journal of Computers (计算机学报), 2020,43(07):1328-1339.
 - Zetao Jiang, Yi Qian, **Xu Wu**, Shaoqin Zhang. “Low-light Image Enhancement Method Based on ARDGAN” Chinese Journal of Electronics (电子学报), 2021,49(11):2160-2165.
-- **Xu Wu**, Zhihui Lai, Shiqi Yu, Jie Zhou, Zhuoqian Liang, Linlin Shen. “Coarse-to-Fine Low-light Image Enhancement with Light Restoration and Color Refinement”, IEEE Transactions on Emerging Topics in Computational Intelligence. Accepted.
+- **Xu Wu**, X. Wu, Z. Lai, S. Yu, J. Zhou, Z. Liang and L. Shen, "Coarse-to-Fine Low-Light Image Enhancement With Light Restoration and Color Refinement," in IEEE Transactions on Emerging Topics in Computational Intelligence, doi: 10.1109/TETCI.2023.3314436.
 - **Xu Wu**, Zhihui Lai, Xianxu Hou, Jiajun Wen, Linlin Shen. “Illumination Calibration and Scale-Aware Feature Learning for Low-light Image Enhancement”, IEEE Transactions on Industrial Informatics. Under review.
 
 
