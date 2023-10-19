@@ -23,12 +23,13 @@ My research interests include contrastive learning, image processing, low-light 
 
 
 # 🔥 News
+- *2023.10*: &nbsp; Excellent PhD Funding (**Rate<5%**)
 - *2023.08*: &nbsp; One paper is accepted to the TETCI.
 - *2023.04*: &nbsp; One paper is accepted to the IJCNN 2023.
 - *2023.02*: &nbsp;🎉🎉 Invited as a visiting student for University of Alberta.
 - *2022.12*: &nbsp; One paper is submmitted to the IJCAI2023.
 - *2022.12*: &nbsp;🎉🎉 2nd Prize, Award on China Post-Graduate Mathematic Contest in Modeling.
-- *2021.11*: &nbsp; Received funding from the outstanding Ph.D. project.
+- *2021.11*: &nbsp; Excellent PhD Funding (**Rate<5%**)
 - *2021.09*: &nbsp;🎉🎉 **I joined Computer Vision Insitute, SZU to pursue the Ph.D. degree under the supervision of Zhihui Lai!**
 
 # 📝 Publications 
@@ -92,7 +93,9 @@ Illumination Calibration and Scale-Aware Feature Learning for Low-light Image En
 
 
 # 🎖 Honors and Awards
+- *2023* Excellent PhD Funding (**Rate<5%**)
 - *2022* 2nd Prize, Award on China Post-Graduate Mathematic Contest in Modeling (**Rate<0.02%**)
+- *2021* Excellent PhD Funding (**Rate<5%**)
 - *2021* Outstanding Master’s Degree Thesis Award (**Rate<0.05%**)
 - *2020* China National Scholarship (**Rate<0.02%**)
 - *2020* Excellent Academic Scholarship, First Class 
