@@ -17,16 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am working towards a Ph.D. degree in Computer Vision Insitute, SZU, under the supervision of Prof. [Zhihui Lai](https://scholar.google.com/citations?hl=zh-CN&user=CkK6ULsAAAAJ). I have published several papers in journals/conferences, including Chinese Journal of Computers, Chinese Journal of Electronics, IEEE Transactions on Emerging Topics in Computational Intelligence, etc.. I serve as a reviewer of journals, e.g., IEEE Transactions
+I am working towards a Ph.D. degree in Computer Vision Insitute, SZU, under the supervision of Prof. [Zhihui Lai](https://scholar.google.com/citations?hl=zh-CN&user=CkK6ULsAAAAJ). I have published several papers in journals/conferences, including the Chinese Journal of Computers, the Chinese Journal of Electronics, IEEE Transactions on Emerging Topics in Computational Intelligence, etc. I serve as a reviewer of journals, e.g., IEEE Transactions
 on Emerging Topics in Computational Intelligence, International Journal of Machine Learning and Cybernetics, and IEEE/CAA Journal of Automatica Sinica. 
-My research interests include contrastive learning, image processing, low-light image enhancment, low-light image semantic segmantation. My curriculum vitae can be found at [here](./CV_wuxu.pdf).
+My research interests include contrastive learning, image processing (low-light image enhancement, medical image enhancement), and low-light image semantic segmentation. My curriculum vitae can be found at [here](./CV_wuxu.pdf).
 
 
 # 🔥 News
 - *2023.10*: &nbsp; Excellent PhD Funding (**Rate<5%**)
 - *2023.08*: &nbsp; One paper is accepted to the TETCI.
 - *2023.04*: &nbsp; One paper is accepted to the IJCNN 2023.
-- *2023.02*: &nbsp;🎉🎉 Invited as a visiting student for University of Alberta.
+- *2023.02*: &nbsp;🎉🎉 Invited as a visiting student for the University of Alberta.
 - *2022.12*: &nbsp; One paper is submmitted to the IJCAI2023.
 - *2022.12*: &nbsp;🎉🎉 2nd Prize, Award on China Post-Graduate Mathematic Contest in Modeling.
 - *2021.11*: &nbsp; Excellent PhD Funding (**Rate<5%**)
@@ -53,7 +53,7 @@ A Variational Autoencoder with Attention and Context Encoding for Low-light Imag
 
 Zetao Jiang, **Xu Wu**, Rushi Lan, Zhuoqian Liang, Zhihui Lai
   
-- The low-illumination image enhancement is a challenging task because color restoration, denoising, and light enhancement should all be taken into account. However, most previous works focus on light enhancement, which is difficult to generate high quality enhanced images. To address this dilemma, a novel deep probabilistic framework that integrates both attention mechanism and context encoding into a unique variational autoencoder (ACE-VAE) is proposed.
+- The low-illumination image enhancement is a challenging task because color restoration, denoising, and light enhancement should all be taken into account. However, most previous works focus on light enhancement, which makes it difficult to generate high-quality enhanced images. To address this dilemma, a novel deep probabilistic framework that integrates both attention mechanism and context encoding into a unique variational autoencoder (ACE-VAE) is proposed.
 </div>
 </div>
 
@@ -87,7 +87,7 @@ Illumination Calibration and Scale-Aware Feature Learning for Low-light Image En
 
 - Zetao Jiang, **Xu Wu**, Shaoqin Zhang, “Low-illumination Image Enhancement Based on MR-VAE”. Chinese Journal of Computers (计算机学报), 2020,43(07):1328-1339.
 - Zetao Jiang, Yi Qian, **Xu Wu**, Shaoqin Zhang. “Low-light Image Enhancement Method Based on ARDGAN” Chinese Journal of Electronics (电子学报), 2021,49(11):2160-2165.
-- **Xu Wu**, X. Wu, Z. Lai, S. Yu, J. Zhou, Z. Liang and L. Shen, "Coarse-to-Fine Low-Light Image Enhancement With Light Restoration and Color Refinement," in IEEE Transactions on Emerging Topics in Computational Intelligence, doi: 10.1109/TETCI.2023.3314436.
+- **Xu Wu**, X. Wu, Z. Lai, S. Yu, J. Zhou, Z. Liang, and L. Shen, "Coarse-to-Fine Low-Light Image Enhancement With Light Restoration and Color Refinement," in IEEE Transactions on Emerging Topics in Computational Intelligence, doi: 10.1109/TETCI.2023.3314436.
 - **Xu Wu**, Zhihui Lai, Xianxu Hou, Jiajun Wen, Linlin Shen. “Illumination Calibration and Scale-Aware Feature Learning for Low-light Image Enhancement”, IEEE Transactions on Industrial Informatics. Under review.
 
 
@@ -108,8 +108,8 @@ Illumination Calibration and Scale-Aware Feature Learning for Low-light Image En
 
 ### Guangxi Key Laboratory of Image and Graphic Intelligent Processing, GUET
 M.S. supervised by [Prof. Zetao Jiang](https://www.guet.edu.cn/people2/1130186.html)
-- Proposed a multi-reconstruction variational autoencoder for low-light image enhancement, which is accepted by Chinese Journal of Computers and open source.
-- Proposed a variational autoencoder with attention and vontext encoding for low-light image enhancement.
+- Proposed a multi-reconstruction variational autoencoder for low-light image enhancement, which is accepted by the Chinese Journal of Computers and open source.
+- Proposed a variational autoencoder with attention and context encoding for low-light image enhancement.
 - Proposed a multi-stage variational autoencoder for low-light image enhancement, which has been patented (Patent number: CN110163815B).
 - Graduate Student Innovation Project of GUET. 
 
