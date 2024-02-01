@@ -118,5 +118,5 @@ M.S. supervised by [Prof. Zetao Jiang](https://www.guet.edu.cn/people2/1130186.h
 - IEEE Transactions on Emerging Topics in Computational Intelligence
 - International Journal of Machine Learning and Cybernetics
 - IEEE/CAA Journal of Automatica Sinica. 
-- MICCAI2023
+- IJCNN2024
 
