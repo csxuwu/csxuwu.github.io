@@ -37,9 +37,9 @@ My research interests include contrastive learning, image processing (low-light 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/MR_VAE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Multi-Reconstruction Variational AutoEncoder for Low-light Image Enhancement](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7i8oRR1PAr7RxjuAJk4dHXos_BuYfGFXVpmBdnj0gpB6SeN-FNUbuzCTM22HnKm5Mc&uniplatform=NZKPT)
+CodeEnhance: A Codebook-Driven Approach for Low-Light Image Enhancement
 
-Zetao Jiang, **Xu Wu**, Shaoqin Zhang
+Xu Wu, XianXu Hou, Zhihui Lai$^{*}$, Jie Zhou, Ya-nan Zhang, Witold Pedrycz, Linlin Shen
   
 - Low-light image enhancement (LLIE) aims to improve low-illumination images. However, existing methods face two challenges: (1) uncertainty in restoration from diverse brightness degradations; (2) loss of texture and color information caused by noise suppression and light enhancement. In this paper, we propose a novel enhancement approach, CodeEnhance, by leveraging quantized priors and image refinement to address these challenges. In particular, we reframe LLIE as learning an \textbf{image-to-code} mapping from low-light images to discrete codebook, which has been learned from high-quality images. To enhance this process, a Semantic Embedding Module (SEM) is introduced to integrate semantic information with low-level features, and a Codebook Shift (CS) mechanism, designed to adapt the pre-learned codebook to better suit the distinct characteristics of our low-light dataset. Additionally, we present an Interactive Feature Transformation (IFT) module to refine texture and color information during image reconstruction, allowing for interactive enhancement based on user preferences. Extensive experiments on both real-world and synthetic benchmarks demonstrate that the incorporation of prior knowledge and controllable information transfer significantly enhances LLIE performance in terms of quality and fidelity. The proposed CodeEnhance exhibits superior robustness to various degradations, including uneven illumination, noise, and color distortion.
 </div>
