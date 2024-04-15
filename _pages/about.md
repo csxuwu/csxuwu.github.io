@@ -37,14 +37,36 @@ My research interests include contrastive learning, image processing (low-light 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/CodeEnhance.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-CodeEnhance: A Codebook-Driven Approach for Low-Light Image Enhancement
+[CodeEnhance: A Codebook-Driven Approach for Low-Light Image Enhancement](http://arxiv.org/abs/2404.05253)
 
 Xu Wu, XianXu Hou, Zhihui Lai$^{*}$, Jie Zhou, Ya-nan Zhang, Witold Pedrycz, Linlin Shen
   
 - Low-light image enhancement (LLIE) aims to improve low-illumination images. However, existing methods face two challenges: (1) uncertainty in restoration from diverse brightness degradations; (2) loss of texture and color information caused by noise suppression and light enhancement. In this paper, we propose a novel enhancement approach, CodeEnhance, by leveraging quantized priors and image refinement to address these challenges. In particular, we reframe LLIE as learning an \textbf{image-to-code} mapping from low-light images to discrete codebook, which has been learned from high-quality images. To enhance this process, a Semantic Embedding Module (SEM) is introduced to integrate semantic information with low-level features, and a Codebook Shift (CS) mechanism, designed to adapt the pre-learned codebook to better suit the distinct characteristics of our low-light dataset. Additionally, we present an Interactive Feature Transformation (IFT) module to refine texture and color information during image reconstruction, allowing for interactive enhancement based on user preferences. Extensive experiments on both real-world and synthetic benchmarks demonstrate that the incorporation of prior knowledge and controllable information transfer significantly enhances LLIE performance in terms of quality and fidelity. The proposed CodeEnhance exhibits superior robustness to various degradations, including uneven illumination, noise, and color distortion.
 </div>
 </div>
+<!-- -------------------------------------------------------- !-->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TETCI</div><img src='images/LRCR2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+Coarse-to-Fine Low-light Image Enhancement with Light Restoration and Color Refinement
+
+**Xu Wu**, Zhihui Lai, Shiqi Yu, Jie Zhou, Zhuoqian Liang, Linlin Shen 
+  
+- Low-light image enhancement aims to improve the illumination intensity while restoring color information. Although recent deep learning-based methods have achieved impressive results, they still suffer from over or under-light enhancement in complex illumination scenes, and poor contrast and saturation recovery in dark regions. To address these drawbacks, we propose a novel pipeline (called LRCR-Net) to perform Light Restoration and Color Refinement in a coarse-to-fine manner.
+</div>
+</div>
+
+<!-- -------------------------------------------------------- !-->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TII</div><img src='images/SCSF2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Illumination Calibration and Scale-Aware Feature Learning for Low-light Image Enhancement
+
+**Xu Wu**, Zhihui Lai, Xianxu Hou, Jiajun Wen, Linlin Shen 
+  
+- Low-light image enhancement has made significant progress with deep neural networks in recent years. A typical framework is to learn nonlinear image-to-image mappings from low-light images and the corresponding normal-light ones. However, these methods rarely consider the illumination relations between different regions and the diversity of regions in scale and shape, leading to over or under-enhancement in uneven illumination. To address these issues, we propose a novel low-light image enhancement model that learns illumination relations and multi-scale information.
+</div>
+</div>
 <!-- -------------------------------------------------------- !-->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Chinese Journal of Computers</div><img src='images/MR_VAE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -69,29 +91,7 @@ Zetao Jiang, **Xu Wu**, Rushi Lan, Zhuoqian Liang, Zhihui Lai
 </div>
 </div>
 
-<!-- -------------------------------------------------------- !-->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TETCI</div><img src='images/LRCR2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-Coarse-to-Fine Low-light Image Enhancement with Light Restoration and Color Refinement
-
-**Xu Wu**, Zhihui Lai, Shiqi Yu, Jie Zhou, Zhuoqian Liang, Linlin Shen 
-  
-- Low-light image enhancement aims to improve the illumination intensity while restoring color information. Although recent deep learning-based methods have achieved impressive results, they still suffer from over or under-light enhancement in complex illumination scenes, and poor contrast and saturation recovery in dark regions. To address these drawbacks, we propose a novel pipeline (called LRCR-Net) to perform Light Restoration and Color Refinement in a coarse-to-fine manner.
-</div>
-</div>
-
-<!-- -------------------------------------------------------- !-->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TII</div><img src='images/SCSF2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Illumination Calibration and Scale-Aware Feature Learning for Low-light Image Enhancement
-
-**Xu Wu**, Zhihui Lai, Xianxu Hou, Jiajun Wen, Linlin Shen 
-  
-- Low-light image enhancement has made significant progress with deep neural networks in recent years. A typical framework is to learn nonlinear image-to-image mappings from low-light images and the corresponding normal-light ones. However, these methods rarely consider the illumination relations between different regions and the diversity of regions in scale and shape, leading to over or under-enhancement in uneven illumination. To address these issues, we propose a novel low-light image enhancement model that learns illumination relations and multi-scale information.
-</div>
-</div>
 
 
 
