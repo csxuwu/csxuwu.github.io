@@ -23,16 +23,29 @@ My research interests include contrastive learning, image processing (low-light 
 
 
 # 🔥 News
+- *2024.04*: &nbsp: Visiting Ph.D. student at Nanyang Technological University (NTU).
 - *2023.10*: &nbsp; Excellent PhD Funding (**Rate<5%**)
 - *2023.08*: &nbsp; One paper is accepted to the TETCI.
-- *2023.04*: &nbsp; One paper is accepted to the IJCNN 2023.
+<!-- - *2023.04*: &nbsp; One paper is accepted to the IJCNN 2023. !-->
 <!-- - *2023.02*: &nbsp;🎉🎉 Invited as a visiting student for the University of Alberta.!-->
 - *2022.12*: &nbsp;🎉🎉 2nd Prize, Award on China Post-Graduate Mathematic Contest in Modeling.
 - *2021.11*: &nbsp; Excellent PhD Funding (**Rate<5%**)
 - *2021.09*: &nbsp;🎉🎉 **I joined Computer Vision Insitute, SZU to pursue the Ph.D. degree under the supervision of Zhihui Lai!**
 
 # 📝 Publications 
+<!-- -------------------------------------------------------- !-->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/MR_VAE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[A Multi-Reconstruction Variational AutoEncoder for Low-light Image Enhancement](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7i8oRR1PAr7RxjuAJk4dHXos_BuYfGFXVpmBdnj0gpB6SeN-FNUbuzCTM22HnKm5Mc&uniplatform=NZKPT)
+
+Zetao Jiang, **Xu Wu**, Shaoqin Zhang
+  
+- Aiming at the low brightness, multi-noise, and blur of low illumination images, we propose Multiple Reconstruction-Variational AutoEncoder (MR-VAE) to gradually denoise and produce high-quality low illumination enhanced images from coarse to fine. MR-VAE consists of three modules: feature probability distribution capture, global reconstruction, and detail reconstruction. The core idea is to reconstruct the global features and local features in stages, and the global reconstruction module constructs the global features of the image and initially enhances the low illumination, to get a coarser image; the detail reconstruction module produces images with more realistic details, less noise, and more appropriate brightness based on the coarse image; In addition, this paper defines a multiple loss function replacement loss to guide the network to generate high-quality images. [**Code**](https://github.com/csxuwu/MR-VAE)
+</div>
+</div>
+
+<!-- -------------------------------------------------------- !-->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Chinese Journal of Computers</div><img src='images/MR_VAE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -44,7 +57,7 @@ Zetao Jiang, **Xu Wu**, Shaoqin Zhang
 </div>
 </div>
 
-
+<!-- -------------------------------------------------------- !-->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/ACEVAE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -56,7 +69,7 @@ Zetao Jiang, **Xu Wu**, Rushi Lan, Zhuoqian Liang, Zhihui Lai
 </div>
 </div>
 
-
+<!-- -------------------------------------------------------- !-->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TETCI</div><img src='images/LRCR2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -68,7 +81,7 @@ Coarse-to-Fine Low-light Image Enhancement with Light Restoration and Color Refi
 </div>
 </div>
 
-
+<!-- -------------------------------------------------------- !-->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TII</div><img src='images/SCSF2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
