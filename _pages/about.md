@@ -34,7 +34,7 @@ My research interests include contrastive learning, image processing (low-light 
 
 # 📝 Publications 
 <!-- -------------------------------------------------------- !-->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/CodeEnhance.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/CodeEnhance.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CodeEnhance: A Codebook-Driven Approach for Low-Light Image Enhancement](http://arxiv.org/abs/2404.05253)
