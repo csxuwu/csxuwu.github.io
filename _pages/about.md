@@ -23,7 +23,7 @@ My research interests include contrastive learning, image processing (low-light 
 
 
 # 🔥 News
-- *2024.04*: &nbsp: Visiting Ph.D. student at Nanyang Technological University (NTU).
+- *2024.04*: &nbsp; Visiting Ph.D. student at Nanyang Technological University (NTU).
 - *2023.10*: &nbsp; Excellent PhD Funding (**Rate<5%**)
 - *2023.08*: &nbsp; One paper is accepted to the TETCI.
 <!-- - *2023.04*: &nbsp; One paper is accepted to the IJCNN 2023. !-->
@@ -41,7 +41,7 @@ My research interests include contrastive learning, image processing (low-light 
 
 Zetao Jiang, **Xu Wu**, Shaoqin Zhang
   
-- Aiming at the low brightness, multi-noise, and blur of low illumination images, we propose Multiple Reconstruction-Variational AutoEncoder (MR-VAE) to gradually denoise and produce high-quality low illumination enhanced images from coarse to fine. MR-VAE consists of three modules: feature probability distribution capture, global reconstruction, and detail reconstruction. The core idea is to reconstruct the global features and local features in stages, and the global reconstruction module constructs the global features of the image and initially enhances the low illumination, to get a coarser image; the detail reconstruction module produces images with more realistic details, less noise, and more appropriate brightness based on the coarse image; In addition, this paper defines a multiple loss function replacement loss to guide the network to generate high-quality images. [**Code**](https://github.com/csxuwu/MR-VAE)
+- Low-light image enhancement (LLIE) aims to improve low-illumination images. However, existing methods face two challenges: (1) uncertainty in restoration from diverse brightness degradations; (2) loss of texture and color information caused by noise suppression and light enhancement. In this paper, we propose a novel enhancement approach, CodeEnhance, by leveraging quantized priors and image refinement to address these challenges. In particular, we reframe LLIE as learning an \textbf{image-to-code} mapping from low-light images to discrete codebook, which has been learned from high-quality images. To enhance this process, a Semantic Embedding Module (SEM) is introduced to integrate semantic information with low-level features, and a Codebook Shift (CS) mechanism, designed to adapt the pre-learned codebook to better suit the distinct characteristics of our low-light dataset. Additionally, we present an Interactive Feature Transformation (IFT) module to refine texture and color information during image reconstruction, allowing for interactive enhancement based on user preferences. Extensive experiments on both real-world and synthetic benchmarks demonstrate that the incorporation of prior knowledge and controllable information transfer significantly enhances LLIE performance in terms of quality and fidelity. The proposed CodeEnhance exhibits superior robustness to various degradations, including uneven illumination, noise, and color distortion.
 </div>
 </div>
 
