@@ -66,7 +66,7 @@ Light-Aware Contrastive Learning for Low-light Image Enhancement
 
 **Xu Wu**, Zhihui Lai, Xianxu Hou, Jiajun Wen, Linlin Shen 
   
-- Low-Light Image Enhancement (LLIE) presents challenges due to texture information loss and uneven illumination, which can distort feature distribution and reduce the quality of the enhanced images. However, current deep learning methods for LLIE only use supervised information from clear images to extract low-light image features, while disregarding the negative information in low-light images (i.e., low illumination and noise). To address these challenges, we propose a novel LLIE method, LACR-VAE, by leveraging the negative information and considering the uneven illumination..
+- Low-light image Enhancement (LLIE) presents challenges due to texture information loss and uneven illumination, which can distort feature distribution and reduce the quality of the enhanced images. However, current deep learning methods for LLIE only use supervised information from clear images to extract low-light image features, while disregarding the negative information in low-light images (i.e., low illumination and noise). To address these challenges, we propose a novel LLIE method, LACR-VAE, by leveraging the negative information and considering the uneven illumination..
 </div>
 </div>
 
