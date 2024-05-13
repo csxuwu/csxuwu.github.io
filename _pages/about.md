@@ -47,7 +47,7 @@ Xu Wu, XianXu Hou, Zhihui Lai$^{*}$, Jie Zhou, Ya-nan Zhang, Witold Pedrycz, Lin
 </div>
 
 <!-- -------------------------------------------------------- !-->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TETCI</div><img src='images/LRCR2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TETCI</div><img src='images/LRCR_Net.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Coarse-to-Fine Low-light Image Enhancement with Light Restoration and Color Refinement
