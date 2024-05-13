@@ -97,6 +97,7 @@ Zetao Jiang, **Xu Wu**, Rushi Lan, Zhuoqian Liang, Zhihui Lai
 
 ### Selected Publication List
 
+- **Xu Wu**, Z. Lai, Z. Zhou,  et al, "Light-Aware Contrastive Learning for Low-light Image Enhancement," in ACM Transactions on Multimedia Computing Communications and Applications.
 - **Xu Wu**, X. Hou, Z. Lai, et al, "CodeEnhance: A Codebook-Driven Approach for Low-Light Image Enhancement". arXiv preprint arXiv:2404.05253, 2024.
 - **Xu Wu**, X. Wu, Z. Lai, S. Yu, J. Zhou, Z. Liang, and L. Shen, "Coarse-to-Fine Low-Light Image Enhancement With Light Restoration and Color Refinement," in IEEE Transactions on Emerging Topics in Computational Intelligence, doi: 10.1109/TETCI.2023.3314436.
 - **Xu Wu**, Zhihui Lai, Xianxu Hou, Jiajun Wen, Linlin Shen. “Illumination Calibration and Scale-Aware Feature Learning for Low-light Image Enhancement”, IEEE Transactions on Industrial Informatics. Under review.
