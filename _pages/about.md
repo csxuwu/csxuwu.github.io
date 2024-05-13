@@ -59,7 +59,7 @@ Coarse-to-Fine Low-light Image Enhancement with Light Restoration and Color Refi
 </div>
 
 <!-- -------------------------------------------------------- !-->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOMM</div><img src='images/SCSF2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOMM</div><img src='images/LACR_VAE' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Light-Aware Contrastive Learning for Low-light Image Enhancement
