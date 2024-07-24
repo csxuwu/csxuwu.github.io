@@ -23,10 +23,10 @@ My research interests include contrastive learning, image processing (low-light 
 
 
 # 🔥 News
-- *2024.05*: &nbsp; 🎉 One paper is accepted to the ACM Transactions on Multimedia Computing Communications and Applications (TOMM).
-- *2024.04*: &nbsp; As a Visiting Ph.D. student at Nanyang Technological University (NTU).
+- *2024.05*: &nbsp; 🎉 One paper has been accepted to the ACM Transactions on Multimedia Computing Communications and Applications (TOMM).
+- *2024.04*: &nbsp; As a Visiting Ph.D. student at Nanyang Technological University (NTU) for one year.
 - *2023.10*: &nbsp; Excellent PhD Funding (**Rate<5%**)
-- *2023.08*: &nbsp; One paper is accepted to the IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI).
+- *2023.08*: &nbsp; One paper has been accepted to the IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI).
 <!-- - *2023.04*: &nbsp; One paper is accepted to the IJCNN 2023. !-->
 <!-- - *2023.02*: &nbsp;🎉🎉 Invited as a visiting student for the University of Alberta.!-->
 - *2022.12*: &nbsp;🎉🎉 2nd Prize, Award on China Post-Graduate Mathematic Contest in Modeling.
@@ -54,7 +54,7 @@ Coarse-to-Fine Low-light Image Enhancement with Light Restoration and Color Refi
 
 **Xu Wu**, Zhihui Lai, Shiqi Yu, Jie Zhou, Zhuoqian Liang, Linlin Shen 
   
-- Low-light image enhancement aims to improve the illumination intensity while restoring color information. Although recent deep learning-based methods have achieved impressive results, they still suffer from over or under-light enhancement in complex illumination scenes, and poor contrast and saturation recovery in dark regions. To address these drawbacks, we propose a novel pipeline (called LRCR-Net) to perform Light Restoration and Color Refinement in a coarse-to-fine manner.
+- Low-light image enhancement aims to improve the illumination intensity while restoring color information. Although recent deep learning-based methods have achieved impressive results, they still suffer from over or under-light enhancement in complex illumination scenes and poor contrast and saturation recovery in dark regions. To address these drawbacks, we propose a novel pipeline (called LRCR-Net) to perform Light Restoration and Color Refinement in a coarse-to-fine manner.
 </div>
 </div>
 
@@ -120,7 +120,7 @@ Zetao Jiang, **Xu Wu**, Rushi Lan, Zhuoqian Liang, Zhihui Lai
 
 ### Guangxi Key Laboratory of Image and Graphic Intelligent Processing, GUET
 M.S. supervised by [Prof. Zetao Jiang](https://www.guet.edu.cn/people2/1130186.html)
-- Proposed a multi-reconstruction variational autoencoder for low-light image enhancement, which is accepted by the Chinese Journal of Computers and open source.
+- Proposed a multi-reconstruction variational autoencoder for low-light image enhancement, accepted by the Chinese Journal of Computers and open source.
 - Proposed a variational autoencoder with attention and context encoding for low-light image enhancement.
 - Proposed a multi-stage variational autoencoder for low-light image enhancement, which has been patented (Patent number: CN110163815B).
 - Graduate Student Innovation Project of GUET. 
@@ -129,8 +129,10 @@ M.S. supervised by [Prof. Zetao Jiang](https://www.guet.edu.cn/people2/1130186.h
 
 ### Journals/References Reviewer 
 - IEEE Transactions on Multimedia
+- Neurocomputing
 - IEEE Transactions on Emerging Topics in Computational Intelligence
 - International Journal of Machine Learning and Cybernetics
 - IEEE/CAA Journal of Automatica Sinica. 
-- IJCNN2024
+- IJCNN 2024
+- NeurIPS 2024
 
