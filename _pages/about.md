@@ -110,11 +110,11 @@ Zetao Jiang, **Xu Wu**, Rushi Lan, Zhuoqian Liang, Zhihui Lai
 - *2022* 2nd Prize, Award on China Post-Graduate Mathematic Contest in Modeling (**Rate<0.02%**)
 - *2021* Excellent PhD Funding (**Rate<5%**)
 - *2021* Outstanding Master’s Degree Thesis Award (**Rate<0.05%**)
-- *2020* China National Scholarship (**Rate<0.02%**)
+- *2020* National Scholarship, Ministry of Education, China (**Rate<0.02%**)
 - *2020* Excellent Academic Scholarship, First Class 
 - *2018* Outstanding Graduate Award of Hunan Province (**Rate<0.02%**)
 - *2018* Outstanding Graduate Award (**Rate<5%**)
-- *2017* China National Scholarship (**Rate<0.02%**)
+- *2017* National Scholarship, Ministry of Education, China (**Rate<0.02%**)
 - *2017* Excellent Academic Scholarship, First Class 
 
 # 📖 Research Experience
