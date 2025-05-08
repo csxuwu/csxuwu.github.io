@@ -138,6 +138,6 @@ M.S. supervised by [Prof. Zetao Jiang](https://www.guet.edu.cn/people2/1130186.h
 - Neurocomputing
 - International Journal of Machine Learning and Cybernetics
 - IEEE/CAA Journal of Automatica Sinica. 
-- IJCNN 2024
-- NeurIPS 2024
+- IJCNN 
+- NeurIPS 
 
