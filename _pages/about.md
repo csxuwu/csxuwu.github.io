@@ -24,6 +24,7 @@ My research interests include contrastive learning, image processing (low-light 
 
 
 # 🔥 News
+- *2025.05*: &nbsp; 🎉 One paper has been accepted to the Engineering Applications of Artificial Intelligence (EAAI).
 - *2024.05*: &nbsp; 🎉 One paper has been accepted to the ACM Transactions on Multimedia Computing Communications and Applications (TOMM).
 - *2024.04*: &nbsp; As a Visiting Ph.D. student at Nanyang Technological University (NTU) for one year.
 - *2023.10*: &nbsp; Excellent PhD Funding (**Rate<5%**)
@@ -36,7 +37,7 @@ My research interests include contrastive learning, image processing (low-light 
 
 # 📝 Publications 
 <!-- -------------------------------------------------------- !-->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/CodeEnhance.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI</div><img src='images/CodeEnhance.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CodeEnhance: A Codebook-Driven Approach for Low-Light Image Enhancement](http://arxiv.org/abs/2404.05253)
