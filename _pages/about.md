@@ -24,11 +24,11 @@ My research interests include contrastive learning, image processing (low-light 
 
 
 # 🔥 News
-- *2025.05*: &nbsp; 🎉 One paper has been accepted to the Engineering Applications of Artificial Intelligence (EAAI).
-- *2024.05*: &nbsp; 🎉 One paper has been accepted to the ACM Transactions on Multimedia Computing Communications and Applications (TOMM).
+- *2025.05*: &nbsp; 🎉 One paper has been accepted to the Engineering Applications of Artificial Intelligence (EAAI, Q1, IF: 7.5).
+- *2024.05*: &nbsp; 🎉 One paper has been accepted to the ACM Transactions on Multimedia Computing Communications and Applications (TOMM, Q1, IF: 5.2).
 - *2024.04*: &nbsp; As a Visiting Ph.D. student at Nanyang Technological University (NTU) for one year.
 - *2023.10*: &nbsp; Excellent PhD Funding (**Rate<5%**)
-- *2023.08*: &nbsp; One paper has been accepted to the IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI).
+- *2023.08*: &nbsp; One paper has been accepted to the IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI, Q1, IF: 5.7).
 <!-- - *2023.04*: &nbsp; One paper is accepted to the IJCNN 2023. !-->
 <!-- - *2023.02*: &nbsp;🎉🎉 Invited as a visiting student for the University of Alberta.!-->
 - *2022.12*: &nbsp;🎉🎉 2nd Prize, Award on China Post-Graduate Mathematic Contest in Modeling.
