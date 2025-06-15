@@ -24,7 +24,7 @@ My research interests include contrastive learning, image processing (low-light 
 
 
 # 🔥 News
-- *2025.06*: &nbsp; 🎉 One paper has been accepted to the IEEE Transaction on Image Processing as a co-author (TIP, Q1, IF: 11.3).
+- *2025.06*: &nbsp; 🎉 One paper has been accepted to the IEEE Transaction on Image Processing (TIP, Q1, IF: 11.3).
 - *2025.05*: &nbsp; 🎉 One paper has been accepted to the Engineering Applications of Artificial Intelligence (EAAI, Q1, IF: 7.5).
 - *2024.05*: &nbsp; 🎉 One paper has been accepted to the ACM Transactions on Multimedia Computing Communications and Applications (TOMM, Q1, IF: 5.2).
 - *2024.04*: &nbsp; As a Visiting Ph.D. student at Nanyang Technological University (NTU) for one year.
