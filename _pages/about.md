@@ -100,6 +100,8 @@ Zetao Jiang, **Xu Wu**, Rushi Lan, Zhuoqian Liang, Zhihui Lai
 
 ### Selected Publication List
 
+- Yanan Zhang, Qiufu Li, **Xu Wu**, Linlin Shen. A Wavelet-guided Deep Unfolding Network for Single Image Reflection Removal[J]. IEEE Transactions on Image Processing. 2025.
+- **Xu Wu**, Xianxu Hou, Lai Zhihui, Jie Zhou, Witold Pedrycz, Linlin Shen. A Codebook-Driven Approach for Low-Light Image Enhancement[J]. Engineering Applications of Artificial Intelligence. 2025.
 - **Xu Wu**, Z. Lai, Z. Jie, C. Gao, X. Hou, Y. N. Zhang, & L. Shen. "Low-Light Enhancement Effect on Classification and Detection: An Empirical Study". arXiv preprint arXiv:2409.14461, 2024.
 - **Xu Wu**, Z. Lai, Z. Zhou,  et al, "Light-Aware Contrastive Learning for Low-light Image Enhancement," in ACM Transactions on Multimedia Computing Communications and Applications. 2024. (CCF B)
 - **Xu Wu**, X. Hou, Z. Lai, et al, "CodeEnhance: A Codebook-Driven Approach for Low-Light Image Enhancement". arXiv preprint arXiv:2404.05253, 2024.
