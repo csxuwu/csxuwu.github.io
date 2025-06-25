@@ -24,6 +24,7 @@ My research interests include contrastive learning, image processing (low-light 
 
 
 # 🔥 News
+- *2025.06*: &nbsp; 🎉 One paper has been accepted to the Neural Network (NN, Q1, IF: 6.3).
 - *2025.06*: &nbsp; 🎉 One paper has been accepted to the IEEE Transaction on Image Processing (TIP, Q1, IF: 11.3).
 - *2025.05*: &nbsp; 🎉 One paper has been accepted to the Engineering Applications of Artificial Intelligence (EAAI, Q1, IF: 7.5).
 - *2024.05*: &nbsp; 🎉 One paper has been accepted to the ACM Transactions on Multimedia Computing Communications and Applications (TOMM, Q1, IF: 5.2).
@@ -99,7 +100,7 @@ Zetao Jiang, **Xu Wu**, Rushi Lan, Zhuoqian Liang, Zhihui Lai
 
 
 ### Selected Publication List
-
+- Wencai Zhu, Zetao Jiang, **Xu Wu**. Key Features-Guided Multi-view Collaborative Network for Image Captioning[J]. Neural Network. 2025.
 - Yanan Zhang, Qiufu Li, **Xu Wu**, Linlin Shen. A Wavelet-guided Deep Unfolding Network for Single Image Reflection Removal[J]. IEEE Transactions on Image Processing. 2025.
 - **Xu Wu**, Xianxu Hou, Lai Zhihui, Jie Zhou, Witold Pedrycz, Linlin Shen. A Codebook-Driven Approach for Low-Light Image Enhancement[J]. Engineering Applications of Artificial Intelligence. 2025.
 - **Xu Wu**, Z. Lai, Z. Jie, C. Gao, X. Hou, Y. N. Zhang, & L. Shen. "Low-Light Enhancement Effect on Classification and Detection: An Empirical Study". arXiv preprint arXiv:2409.14461, 2024.
