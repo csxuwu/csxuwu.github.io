@@ -135,7 +135,6 @@ M.S. supervised by [Prof. Zetao Jiang](https://www.guet.edu.cn/people2/1130186.h
 # 💻 Professional Service
 
 ### Journals/References Reviewer 
-- Neural Network
 - IEEE Transactions on Multimedia
 - IEEE Transactions on Emerging Topics in Computational Intelligence
 - Neural Network
@@ -144,5 +143,6 @@ M.S. supervised by [Prof. Zetao Jiang](https://www.guet.edu.cn/people2/1130186.h
 - International Journal of Machine Learning and Cybernetics
 - IEEE/CAA Journal of Automatica Sinica. 
 - IJCNN 
-- NeurIPS 
+- NeurIPS
+- AAAI 
 
