@@ -24,6 +24,8 @@ My research interests include contrastive learning, image processing (low-light 
 
 
 # 🔥 News
+- *2025.10*: &nbsp; 🎉 One paper has been accepted to the IEEE Transaction on Multimedia (TIP, Q1, IF: 9.7).
+- *2025.10*: &nbsp; 🎉 One paper has been accepted to the BIBM.
 - *2025.06*: &nbsp; 🎉 One paper has been accepted to the Neural Network (NN, Q1, IF: 6.3).
 - *2025.06*: &nbsp; 🎉 One paper has been accepted to the IEEE Transaction on Image Processing (TIP, Q1, IF: 11.3).
 - *2025.05*: &nbsp; 🎉 One paper has been accepted to the Engineering Applications of Artificial Intelligence (EAAI, Q1, IF: 7.5).
