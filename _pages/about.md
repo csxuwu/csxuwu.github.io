@@ -115,6 +115,8 @@ Zetao Jiang, **Xu Wu**, Rushi Lan, Zhuoqian Liang, Zhihui Lai
 
 
 ### Selected Publication List
+- **Xu Wu**, Zhihui Lai, Xianxu Hou, Jie Zhou, Yanan Zhang, Linlin Shen. LightQANet: Quantized and Adaptive Feature Learning for Low-Light Image Enhancement[J]. IEEE Transactions on Multimedia. 2025
+- Zhuoqin Yang, Jiansong Zhang, Xiaoling Luo, **Xu Wu**, Zheng Lu, and Linlin Shen. MedKAN: An Advanced Kolmogorov-Arnold Network for Medical Image Classification. BIBM. 2025
 - Wencai Zhu, Zetao Jiang, **Xu Wu**. Key Features-Guided Multi-view Collaborative Network for Image Captioning[J]. Neural Network. 2025.
 - Yanan Zhang, Qiufu Li, **Xu Wu**, Linlin Shen. A Wavelet-guided Deep Unfolding Network for Single Image Reflection Removal[J]. IEEE Transactions on Image Processing. 2025.
 - **Xu Wu**, Xianxu Hou, Lai Zhihui, Jie Zhou, Witold Pedrycz, Linlin Shen. A Codebook-Driven Approach for Low-Light Image Enhancement[J]. Engineering Applications of Artificial Intelligence. 2025.
