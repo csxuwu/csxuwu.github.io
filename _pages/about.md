@@ -40,6 +40,19 @@ My research interests include contrastive learning, image processing (low-light 
 - *2021.09*: &nbsp;🎉🎉 **I joined Computer Vision Insitute, SZU to pursue the Ph.D. degree under the supervision of Zhihui Lai!**
 
 # 📝 Publications 
+
+<!-- -------------------------------------------------------- !-->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM</div><img src='images/LightQANet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+LightQANet: Quantized and Adaptive Feature Learning for Low-Light Image Enhancement
+
+Xu Wu, Zhihui Lai$^{*}$, XianXu Hou, Jie Zhou, Ya-nan Zhang, Linlin Shen
+  
+- Low-light image enhancement (LLIE) aims to im- prove illumination while preserving high-quality color and tex- ture. However, existing methods often fail to extract reliable feature representations due to severely degraded pixel-level information under low-light conditions, resulting in poor texture restoration, color inconsistency, and artifact. To address these challenges, we propose LightQANet, a novel framework that introduces quantized and adaptive feature learning for low- light enhancement, aiming to achieve consistent and robust image quality across diverse lighting conditions. From the static modeling perspective, we design a Light Quantization Module (LQM) to explicitly extract and quantify illumination-related factors from image features. By enforcing structured light factor learning, LQM enhances the extraction of light-invariant rep- resentations and mitigates feature inconsistency across varying illumination levels. From the dynamic adaptation perspective, we introduce a Light-Aware Prompt Module (LAPM), which encodes illumination priors into learnable prompts to dynamically guide the feature learning process. LAPM enables the model to flexibly adapt to complex and continuously changing lighting conditions, further improving image enhancement. Extensive experiments on multiple low-light datasets demonstrate that our method achieves state-of-the-art performance, delivering superior qualitative and quantitative results across various challenging lighting scenarios.
+</div>
+</div>
+
 <!-- -------------------------------------------------------- !-->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI</div><img src='images/CodeEnhance.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
