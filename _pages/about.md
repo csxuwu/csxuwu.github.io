@@ -153,7 +153,9 @@ M.S. supervised by [Prof. Zetao Jiang](https://www.guet.edu.cn/people2/1130186.h
 
 ### Journals/References Reviewer 
 - IEEE Transactions on Multimedia
+- IEEE Transactions on Image Processing
 - IEEE Transactions on Emerging Topics in Computational Intelligence
+- Pattern Recognition
 - Neural Network
 - Expert Systems with Applications
 - Neurocomputing
@@ -161,5 +163,6 @@ M.S. supervised by [Prof. Zetao Jiang](https://www.guet.edu.cn/people2/1130186.h
 - IEEE/CAA Journal of Automatica Sinica. 
 - IJCNN 
 - NeurIPS
-- AAAI 
+- AAAI
+- ICLR
 
