@@ -24,7 +24,7 @@ My research interests include contrastive learning, image processing (low-light 
 
 
 # 🔥 News
-- *2025.10*: &nbsp; 🎉 One paper has been accepted to the IEEE Transaction on Multimedia (TIP, Q1, IF: 9.7).
+- *2025.10*: &nbsp; 🎉 One paper has been accepted to the IEEE Transaction on Multimedia (TMM, Q1, IF: 9.7).
 - *2025.10*: &nbsp; 🎉 One paper has been accepted to the BIBM.
 - *2025.06*: &nbsp; 🎉 One paper has been accepted to the Neural Network (NN, Q1, IF: 6.3).
 - *2025.06*: &nbsp; 🎉 One paper has been accepted to the IEEE Transaction on Image Processing (TIP, Q1, IF: 11.3).
@@ -49,7 +49,7 @@ LightQANet: Quantized and Adaptive Feature Learning for Low-Light Image Enhancem
 
 Xu Wu, Zhihui Lai$^{*}$, XianXu Hou, Jie Zhou, Ya-nan Zhang, Linlin Shen
   
-- Low-light image enhancement (LLIE) aims to im- prove illumination while preserving high-quality color and tex- ture. However, existing methods often fail to extract reliable feature representations due to severely degraded pixel-level information under low-light conditions, resulting in poor texture restoration, color inconsistency, and artifact. To address these challenges, we propose LightQANet, a novel framework that introduces quantized and adaptive feature learning for low- light enhancement, aiming to achieve consistent and robust image quality across diverse lighting conditions. From the static modeling perspective, we design a Light Quantization Module (LQM) to explicitly extract and quantify illumination-related factors from image features. By enforcing structured light factor learning, LQM enhances the extraction of light-invariant rep- resentations and mitigates feature inconsistency across varying illumination levels. From the dynamic adaptation perspective, we introduce a Light-Aware Prompt Module (LAPM), which encodes illumination priors into learnable prompts to dynamically guide the feature learning process. LAPM enables the model to flexibly adapt to complex and continuously changing lighting conditions, further improving image enhancement. Extensive experiments on multiple low-light datasets demonstrate that our method achieves state-of-the-art performance, delivering superior qualitative and quantitative results across various challenging lighting scenarios.
+- We propose LightQANet, a novel framework that introduces quantized and adaptive feature learning for low- light enhancement, aiming to achieve consistent and robust image quality across diverse lighting conditions. From the static modeling perspective, we design a Light Quantization Module (LQM) to explicitly extract and quantify illumination-related factors from image features. By enforcing structured light factor learning, LQM enhances the extraction of light-invariant rep- resentations and mitigates feature inconsistency across varying illumination levels. From the dynamic adaptation perspective, we introduce a Light-Aware Prompt Module (LAPM), which encodes illumination priors into learnable prompts to dynamically guide the feature learning process. LAPM enables the model to flexibly adapt to complex and continuously changing lighting conditions, further improving image enhancement. 
 </div>
 </div>
 
