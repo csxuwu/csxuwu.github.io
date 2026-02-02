@@ -24,6 +24,8 @@ My research interests include contrastive learning, image processing (low-light 
 
 
 # 🔥 News
+- *2026.01*: &nbsp; 🎉 One paper has been accepted to the ICLR 2026.
+- *2025.11*: &nbsp; 🎉 One paper has been accepted to the AAAI 2026.
 - *2025.10*: &nbsp; 🎉 One paper has been accepted to the IEEE Transaction on Multimedia (TMM, Q1, IF: 9.7).
 - *2025.10*: &nbsp; 🎉 One paper has been accepted to the BIBM.
 - *2025.06*: &nbsp; 🎉 One paper has been accepted to the Neural Network (NN, Q1, IF: 6.3).
