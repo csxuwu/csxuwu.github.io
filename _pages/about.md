@@ -24,15 +24,17 @@ My research interests include contrastive learning, image processing (low-light 
 
 
 # 🔥 News
+- *2026.05*: &nbsp; 🎉 One paper has been accepted to the ICIC 2026 (**Oral**).
+- *2026.04*: &nbsp; 🎉 One paper has been accepted to the ICASSP 2026.
 - *2026.01*: &nbsp; 🎉 One paper has been accepted to the ICLR 2026.
 - *2025.11*: &nbsp; 🎉 One paper has been accepted to the AAAI 2026.
 - *2025.10*: &nbsp; 🎉 One paper has been accepted to the IEEE Transaction on Multimedia (TMM, Q1, IF: 9.7).
-- *2025.10*: &nbsp; 🎉 One paper has been accepted to the BIBM.
+- *2025.10*: &nbsp; 🎉 One paper has been accepted to the BIBM (**Oral**).
 - *2025.06*: &nbsp; 🎉 One paper has been accepted to the Neural Network (NN, Q1, IF: 6.3).
 - *2025.06*: &nbsp; 🎉 One paper has been accepted to the IEEE Transaction on Image Processing (TIP, Q1, IF: 11.3).
 - *2025.05*: &nbsp; 🎉 One paper has been accepted to the Engineering Applications of Artificial Intelligence (EAAI, Q1, IF: 7.5).
-- *2024.05*: &nbsp; 🎉 One paper has been accepted to the ACM Transactions on Multimedia Computing Communications and Applications (TOMM, Q1, IF: 5.2).
-- *2024.04*: &nbsp; As a Visiting Ph.D. student at Nanyang Technological University (NTU) for one year.
+<!--- *2024.05*: &nbsp; 🎉 One paper has been accepted to the ACM Transactions on Multimedia Computing Communications and Applications (TOMM, Q1, IF: 5.2).!-->
+<!--- *2024.04*: &nbsp; As a Visiting Ph.D. student at Nanyang Technological University (NTU) for one year.!-->
 <!-- - *2023.10*: &nbsp; Excellent PhD Funding (**Rate<5%**) !-->
 <!-- - *2023.08*: &nbsp; One paper has been accepted to the IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI, Q1, IF: 5.7). !-->
 <!-- - *2023.04*: &nbsp; One paper is accepted to the IJCNN 2023. !-->
@@ -118,8 +120,9 @@ Zetao Jiang, **Xu Wu**, Rushi Lan, Zhuoqian Liang, Zhihui Lai
 
 
 ### Selected Publication List
-- **Xu Wu**, Zhihui Lai, Xianxu Hou, Jie Zhou, Yanan Zhang, Linlin Shen. LightQANet: Quantized and Adaptive Feature Learning for Low-Light Image Enhancement[J]. IEEE Transactions on Multimedia. 2025
-- Zhuoqin Yang, Jiansong Zhang, Xiaoling Luo, **Xu Wu**, Zheng Lu, and Linlin Shen. MedKAN: An Advanced Kolmogorov-Arnold Network for Medical Image Classification. BIBM. 2025
+- Bowen Jiang, Xiaochun Lei, **Xu Wu (Corresponding)**. DA-Net:Dual-level Asymmetric Network for Low-LightImage Enhancement. ICIC. 2026. **Oral**.
+- **Xu Wu**, Zhihui Lai, Xianxu Hou, Jie Zhou, Yanan Zhang, Linlin Shen. LightQANet: Quantized and Adaptive Feature Learning for Low-Light Image Enhancement[J]. IEEE Transactions on Multimedia. 2026
+- Zhuoqin Yang, Jiansong Zhang, Xiaoling Luo, **Xu Wu**, Zheng Lu, and Linlin Shen. MedKAN: An Advanced Kolmogorov-Arnold Network for Medical Image Classification. BIBM. 2025. **Oral**
 - Wencai Zhu, Zetao Jiang, **Xu Wu**. Key Features-Guided Multi-view Collaborative Network for Image Captioning[J]. Neural Network. 2025.
 - Yanan Zhang, Qiufu Li, **Xu Wu**, Linlin Shen. A Wavelet-guided Deep Unfolding Network for Single Image Reflection Removal[J]. IEEE Transactions on Image Processing. 2025.
 - **Xu Wu**, Xianxu Hou, Lai Zhihui, Jie Zhou, Witold Pedrycz, Linlin Shen. A Codebook-Driven Approach for Low-Light Image Enhancement[J]. Engineering Applications of Artificial Intelligence. 2025.
