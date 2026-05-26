@@ -27,7 +27,7 @@ author:
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
-  googlescholar    : #"https://scholar.google.com/citations?user=QX51P54AAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=fYeZjCYAAAAJ&hl=en"
   email            : "csxunwu@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "csxunwu"
+  github           : "https://github.com/csxuwu"
   google_plus      :
   keybase          :
   instagram        :
